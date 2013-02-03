@@ -4,6 +4,8 @@ namespace BlockData
 {
     public class Colors
     {
+        #region Blocks
+
         // Basic Blocks
 
         public static readonly Color BlockBasicBlack = Color.FromArgb(1644825);
@@ -197,6 +199,12 @@ namespace BlockData
         public static readonly Color BlockLadderJungleHorizontal = Color.FromArgb(16777216);
         public static readonly Color BlockLadderNinja = Color.FromArgb(16777216);
 
+        // Lava Blocks
+
+        public static readonly Color BlockLavaOrange = Color.FromArgb(16422670);
+        public static readonly Color BlockLavaRed = Color.FromArgb(16736000);
+        public static readonly Color BlockLavaYellow = Color.FromArgb(16764478);
+
         // Mars Blocks
 
         public static readonly Color BlockMars1 = Color.FromArgb(16755524);
@@ -336,6 +344,120 @@ namespace BlockData
 
         public static readonly Color BlockWater = Color.FromArgb(16777216);
 
-        // public static readonly Color Name = Color.FromArgb(color_value);
+        #endregion
+
+        #region Decorations
+
+        // Candy Decoration
+
+        // Chirstmas 2010 Decorations
+
+        // Christmas 2011 Decorations
+
+        // Christmas 2012 Decorations
+
+        // Cloud Decorations
+
+        // Cowboy Decorations
+
+        // Easter 2012 Decorations
+
+        // Fog Decorations
+
+        // Halloween 2011 Decorations
+
+        // Halloween 2012 Decorations
+
+        // Jungle Decorations
+
+        // Mars Decoration
+
+        // Monster Decorations
+
+        // Ninja Decorations
+
+        // New Year 2010 Decorations
+
+        // Prison Decoration
+
+        // Prize Decoration
+
+        // Rocket Decorations
+
+        // Sand Decorations
+
+        // Spring 2011 Decorations
+
+        // Summer 2011 Decorations
+
+        // Summer 2012 Decorations
+
+        // Viking Decorations
+
+        // Warning Decorations
+
+        // Water Decoration
+
+        // Window Decorations
+
+        #endregion
+
+        #region Backgrounds
+
+        // Basic Backgrounds
+
+        // Brick Backgrounds
+
+        // Candy Backgrounds
+
+        // Canvas Backgrounds
+
+        // Christmas 2012 Backgrounds
+
+        // Carnival Backgrounds
+
+        // Checkered Backgrounds
+
+        // Cowboy Backgrounds
+
+        // Dark Backgrounds
+
+        // Halloween 2011 Backgrounds
+
+        // Industrial Backgrounds
+
+        // Jungle Backgrounds
+
+        // Jungle Ruins Backgrounds
+
+        // Lava Backgrounds
+
+        // Mars Backgrounds
+
+        // Monster Backgrounds
+
+        // Ninja Backgrounds
+
+        // Normal Backgrounds
+
+        // Pastel Backgrounds
+
+        // Pirate Backgrounds
+
+        // Prison Backgrounds
+
+        // Rocket Backgrounds
+
+        // Sand Backgrounds
+
+        // Timbered Backgrounds
+
+        // Viking Backgrounds
+
+        // Water Backgrounds
+
+        #endregion
+
+        // public static readonly Color Name = Color.FromArgb();
     }
 }
