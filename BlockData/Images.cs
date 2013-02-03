@@ -59,6 +59,16 @@ namespace BlockData
         BlockGateCoinGate = new Bitmap(BlockData.Resources.b165),
         //BlockGatePurpleSwitchable id=185
 
+        //Metal Pack
+        BlockMetalWhite = new Bitmap(BlockData.Resources.b29),
+        BlockMetalRed = new Bitmap(BlockData.Resources.b30),
+        BlockMetalYellow = new Bitmap(BlockData.Resources.b31),
+
+        //Grass Pack
+        BlockGrass1 = new Bitmap(BlockData.Resources.b34),
+        BlockGrass2 = new Bitmap(BlockData.Resources.b35),
+        BlockGrass3 = new Bitmap(BlockData.Resources.b36),
+
         //Name = new Bitmap(BlockData.Resources.b[block-id]),
     }
 }
