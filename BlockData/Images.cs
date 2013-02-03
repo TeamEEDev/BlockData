@@ -84,6 +84,24 @@ namespace BlockData
         BlockFactory4 = new Bitmap(BlockData.Resources.b48),
         BlockFactory5 = new Bitmap(BlockData.Resources.b49),
 
+        //Secrets
+        BlockSecretUnpassable = new Bitmap(BlockData.Resources.b50),
+        BlockSecretPassable = new Bitmap(BlockData.Resources.b243),
+
+        //Glass Pack
+        BlockGlassRed = new Bitmap(BlockData.Resources.b51),
+        BlockGlassPink = new Bitmap(BlockData.Resources.b52),
+        BlockGlassPurple = new Bitmap(BlockData.Resources.b53),
+        BlockGlassDarkBlue = new Bitmap(BlockData.Resources.b54),
+        BlockGlassLightBlue = new Bitmap(BlockData.Resources.b55),
+        BlockGlassGreen = new Bitmap(BlockData.Resources.b56),
+        BlockGlassYellow = new Bitmap(BlockData.Resources.b57),
+        BlockGlassOrange = new Bitmap(BlockData.Resources.b58),
+        
+        //Summer 2011 Pack
+        BlockSummer2011Sand = new Bitmap(BlockData.Resources.b59),
+
+
         //Name = new Bitmap(BlockData.Resources.b[block-id]),
     }
 }
