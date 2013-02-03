@@ -33,6 +33,10 @@ namespace BlockData
         BlockBrickRed = Color.FromArgb((int)4285473833),
         BlockBrickSaturatedBrown = Color.FromArgb((int)4287315465),
 
+        // Crown
+
+        BlockCrown = Color.FromArgb((int)4282595615),
+
         // Doors
 
         BlockDoorBlue = Color.FromArgb((int)4281156764),
@@ -42,13 +46,33 @@ namespace BlockData
         BlockDoorRed = Color.FromArgb((int)4288425286),
         BlockDoorTimedDoor = Color.FromArgb((int)4079166),
 
+        // Factory Blocks
+
+        BlockFactory1 = Color.FromArgb((int)4285686091),
+        BlockFactory2 = Color.FromArgb((int)4285426528),
+        BlockFactory3 = Color.FromArgb((int)4287525711),
+        BlockFactory4 = Color.FromArgb((int)4286533419),
+        BlockFactory5 = Color.FromArgb((int)4285887861),
+
         // Gates
 
         BlockGateBlue = Color.FromArgb((int)4281156764),
         BlockGateCoinGate = Color.FromArgb((int)12094997),
         BlockGateGreen = Color.FromArgb((int)4281834544),
+        BlockGatePurpleSwitchable = Color.FromArgb((int)2104613),
         BlockGateRed = Color.FromArgb((int)4288425286),
         BlockGateTimedGate = Color.FromArgb((int)6184542),
+
+        // Glass Blocks
+
+        BlockGlassDarkBlue = Color.FromArgb((int)4286487030),
+        BlockGlassGreen = Color.FromArgb((int)4287822762),
+        BlockGlassLightBlue = Color.FromArgb((int)4288011510),
+        BlockGlassOrange = Color.FromArgb((int)4294359700),
+        BlockGlassPink = Color.FromArgb((int)4293495798),
+        BlockGlassPurple = Color.FromArgb((int)4289169910),
+        BlockGlassRed = Color.FromArgb((int)4294480537),
+        BlockGlassYellow = Color.FromArgb((int)4294498956),
 
         // Grass Blocks
 
@@ -58,17 +82,28 @@ namespace BlockData
 
         // Gravity Blocks
 
-        BlockGravityNothing = Color.FromArgb((int)16777216),
-        BlockGravityLeft = Color.FromArgb((int)16777216),
-        BlockGravityUp = Color.FromArgb((int)16777216),
-        BlockGravityRight = Color.FromArgb((int)16777216),
         BlockGravityDot = Color.FromArgb((int)16777216),
+        BlockGravityLeft = Color.FromArgb((int)16777216),
+        BlockGravityNothing = Color.FromArgb((int)16777216),
+        BlockGravityRight = Color.FromArgb((int)16777216),
+        BlockGravityUp = Color.FromArgb((int)16777216),
+
+        // Key Blocks
+
+        BlockKeyBlue = Color.FromArgb((int)4279900716),
+        BlockKeyGreen = Color.FromArgb((int)4279905306),
+        BlockKeyRed = Color.FromArgb((int)4281080346),
 
         // Metal Blocks
 
         BlockMetalRed = Color.FromArgb((int)4292835905),
         BlockMetalWhite = Color.FromArgb((int)4288783269),
         BlockMetalYellow = Color.FromArgb((int)4293962023),
+
+        // Secret Blocks
+
+        BlockSecretPassable = Color.FromArgb((int)16777216),
+        BlockSecretUnpassable = Color.FromArgb((int)16777216),
 
         // Special Blocks
 
