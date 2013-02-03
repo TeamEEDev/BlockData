@@ -69,6 +69,21 @@ namespace BlockData
         BlockGrass2 = new Bitmap(BlockData.Resources.b35),
         BlockGrass3 = new Bitmap(BlockData.Resources.b36),
 
+        //Beta Pack
+        BlockBetaPink = new Bitmap(BlockData.Resources.b37),
+        BlockBetaGreen = new Bitmap(BlockData.Resources.b38),
+        BlockBetaBlue = new Bitmap(BlockData.Resources.b39),
+        BlockBetaRed = new Bitmap(BlockData.Resources.b40),
+        BlockBetaYellow = new Bitmap(BlockData.Resources.b41),
+        BlockBetaGrey = new Bitmap(BlockData.Resources.b42),
+
+        //Factory Pack
+        BlockFactory1 = new Bitmap(BlockData.Resources.b45),
+        BlockFactory2 = new Bitmap(BlockData.Resources.b46),
+        BlockFactory3 = new Bitmap(BlockData.Resources.b47),
+        BlockFactory4 = new Bitmap(BlockData.Resources.b48),
+        BlockFactory5 = new Bitmap(BlockData.Resources.b49),
+
         //Name = new Bitmap(BlockData.Resources.b[block-id]),
     }
 }
