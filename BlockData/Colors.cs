@@ -33,6 +33,25 @@ namespace BlockData
         BlockBrickRed = Color.FromArgb((int)4285473833),
         BlockBrickSaturatedBrown = Color.FromArgb((int)4287315465),
 
+        // Candy Blocks
+
+        BlockCandyOneWayBlue = Color.FromArgb((int)3232612),
+        BlockCandyOneWayGreen = Color.FromArgb((int)1263891),
+        BlockCandyOneWayPink = Color.FromArgb((int)7810156),
+        BlockCandyOneWayRed = Color.FromArgb((int)7411232),
+        BlockCandySolidChocolate = Color.FromArgb((int)9253137),
+        BlockCandySolidPink = Color.FromArgb((int)16487348),
+        BlockCandySolidStripeyRedWhite = Color.FromArgb((int)12743796),
+        BlockCandySolidStripeyYellowBlackPink = Color.FromArgb((int)10774865),
+
+        // Christmas 2011
+
+        BlockChristmas2011BlueBox = Color.FromArgb((int)5642622),
+        BlockChristmas2011GreenBox = Color.FromArgb((int)5670165),
+        BlockChristmas2011RedBox = Color.FromArgb((int)10044431),
+        BlockChristmas2011WhiteBox = Color.FromArgb((int)12814468),
+        BlockChristmas2011YellowBox = Color.FromArgb((int)8306196),
+
         // Crown
 
         BlockCrown = Color.FromArgb((int)4282595615),
@@ -88,6 +107,11 @@ namespace BlockData
         BlockGravityRight = Color.FromArgb((int)16777216),
         BlockGravityUp = Color.FromArgb((int)16777216),
 
+        // Halloween 2011
+
+        BlockHalloween20111 = Color.FromArgb((int)6837332),
+        BlockHalloween20112 = Color.FromArgb((int)6188660),
+
         // Key Blocks
 
         BlockKeyBlue = Color.FromArgb((int)4279900716),
@@ -100,10 +124,30 @@ namespace BlockData
         BlockMetalWhite = Color.FromArgb((int)4288783269),
         BlockMetalYellow = Color.FromArgb((int)4293962023),
 
+        // Mineral Blocks
+
+        BlockMineralDarkBlue = Color.FromArgb((int)4278190318),
+        BlockMineralGreen = Color.FromArgb((int)4278251008),
+        BlockMineralLightBlue = Color.FromArgb((int)4278251246),
+        BlockMineralOrange = Color.FromArgb((int)4293818112),
+        BlockMineralPink = Color.FromArgb((int)4293787886),
+        BlockMineralRed = Color.FromArgb((int)4293787648),
+        BlockMineralYellow = Color.FromArgb((int)4293848576),
+
+        // Music Blocks
+
+        BlockMusicDrum = Color.FromArgb((int)16777216),
+        BlockMusicPiano = Color.FromArgb((int)16777216),
+
         // Secret Blocks
 
         BlockSecretPassable = Color.FromArgb((int)16777216),
         BlockSecretUnpassable = Color.FromArgb((int)16777216),
+
+        // Summer 2011 Blocks
+
+        BlockSummer2011Sand = Color.FromArgb((int)14269318),
+        BlockSummer2011Sunshade = Color.FromArgb((int)16777216),
 
         // Special Blocks
 
