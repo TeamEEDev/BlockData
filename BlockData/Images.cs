@@ -29,5 +29,13 @@ namespace BlockData
         BlockBasicLightBlue = new Bitmap(BlockData.Resources.b15),
         BlockBasicBlack = new Bitmap(BlockData.Resources.b182),
 
+        //Brick Pack
+        BlockBrickSaturatedBrown = new Bitmap(BlockData.Resources.b16),
+        BlockBrickDarkGreen = new Bitmap(BlockData.Resources.b17),
+        BlockBrickPurple = new Bitmap(BlockData.Resources.b18),
+        BlockBrickLightGreen = new Bitmap(BlockData.Resources.b19),
+        BlockBrickRed = new Bitmap(BlockData.Resources.b20),
+        BlockBrickPaleBrown = new Bitmap(BlockData.Resources.b21),
+
     }
 }
