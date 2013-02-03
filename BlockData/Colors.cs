@@ -24,7 +24,14 @@ namespace BlockData
         BlockBetaRed = Color.FromArgb((int)4291782224),
         BlockBetaYellow = Color.FromArgb((int)4291995973),
 
-        // ?
+        // Boost Blocks
+
+        BlockBoostDown = Color.FromArgb((int)16777216),
+        BlockBoostLeft = Color.FromArgb((int)16777216),
+        BlockBoostRight = Color.FromArgb((int)16777216),
+        BlockBoostUp = Color.FromArgb((int)16777216),
+
+        // Brick Blocks
 
         BlockBrickDarkGreen = Color.FromArgb((int)4280577869),
         BlockBrickLightGreen = Color.FromArgb((int)4282614544),
@@ -51,6 +58,11 @@ namespace BlockData
         BlockChristmas2011RedBox = Color.FromArgb((int)10044431),
         BlockChristmas2011WhiteBox = Color.FromArgb((int)12814468),
         BlockChristmas2011YellowBox = Color.FromArgb((int)8306196),
+
+        // Coins
+
+        BlockCoinBlue = Color.FromArgb((int)16777216),
+        BlockCoinGold = Color.FromArgb((int)16777216),
 
         // Crown
 
@@ -139,15 +151,35 @@ namespace BlockData
         BlockMusicDrum = Color.FromArgb((int)16777216),
         BlockMusicPiano = Color.FromArgb((int)16777216),
 
+        // Ninja Blocks
+
+        BlockNinjaGrey = Color.FromArgb((int)16777216),
+        BlockNinjaWhite = Color.FromArgb((int)16777216),
+
+        // Pirate Blocks
+
+        BlockPirate1 = Color.FromArgb((int)11572068),
+        BlockPirateChest = Color.FromArgb((int)11048021),
+
+        // Prison Block
+
+        BlockPrison = Color.FromArgb((int)8421504),
+
+        // Sci-Fi Blocks
+
+        BlockSciFiOneWayBlue = Color.FromArgb((int)8227772),
+        BlockSciFiOneWayGreen = Color.FromArgb((int)7911811),
+        BlockSciFiOneWayRed = Color.FromArgb((int)12352645),
+        BlockSciFiSolidBlue = Color.FromArgb((int)3895965),
+        BlockSciFiSolidBrown = Color.FromArgb((int)7098156),
+        BlockSciFiSolidGrey = Color.FromArgb((int)8816262),
+        BlockSciFiSolidRed = Color.FromArgb((int)10437440),
+        BlockSciFiSolidWhite = Color.FromArgb((int)16777215),
+
         // Secret Blocks
 
         BlockSecretPassable = Color.FromArgb((int)16777216),
         BlockSecretUnpassable = Color.FromArgb((int)16777216),
-
-        // Summer 2011 Blocks
-
-        BlockSummer2011Sand = Color.FromArgb((int)14269318),
-        BlockSummer2011Sunshade = Color.FromArgb((int)16777216),
 
         // Special Blocks
 
@@ -155,6 +187,19 @@ namespace BlockData
         BlockSpecial2 = Color.FromArgb((int)4291792930),
         BlockSpecialNormalBlack = Color.FromArgb((int)16777216),
         BlockSpecialFullyBlack = Color.FromArgb((int)16777216),
+
+        // Summer 2011 Blocks
+
+        BlockSummer2011Sand = Color.FromArgb((int)14269318),
+        BlockSummer2011Sunshade = Color.FromArgb((int)16777216),
+
+        // Switch Block
+
+        BlockSwitchPurple = Color.FromArgb((int)3749188),
+
+        // Viking Block
+
+        BlockViking = Color.FromArgb((int)6908007),
 
         // Name = Color.FromArgb((int)color_value),
     }
