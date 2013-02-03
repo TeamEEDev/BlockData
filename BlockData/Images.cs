@@ -37,5 +37,28 @@ namespace BlockData
         BlockBrickRed = new Bitmap(BlockData.Resources.b20),
         BlockBrickPaleBrown = new Bitmap(BlockData.Resources.b21),
 
+        //Special Blocks Pack
+        BlockSpecial1 = new Bitmap(BlockData.Resources.b22),
+        BlockSpecial2 = new Bitmap(BlockData.Resources.b32),
+        BlockSpecialNormalBlack = new Bitmap(BlockData.Resources.b33),
+        BlockSpecialFullyBlack = new Bitmap(BlockData.Resources.b44),
+
+        //Doors Pack
+        BlockDoorRed = new Bitmap(BlockData.Resources.b23),
+        BlockDoorGreen = new Bitmap(BlockData.Resources.b24),
+        BlockDoorBlue = new Bitmap(BlockData.Resources.b25),
+        BlockDoorCoinDoor = new Bitmap(BlockData.Resources.b43),
+        BlockDoorTimedDoor = new Bitmap(BlockData.Resources.b156),
+        BlockDoorPurpleSwitchable = new Bitmap(BlockData.Resources.b184),
+
+        //Gates Pack
+        BlockGateRed = new Bitmap(BlockData.Resources.b26),
+        BlockGateGreen = new Bitmap(BlockData.Resources.b27),
+        BlockGateBlue = new Bitmap(BlockData.Resources.b28),
+        BlockGateTimedGate = new Bitmap(BlockData.Resources.b157),
+        BlockGateCoinGate = new Bitmap(BlockData.Resources.b165),
+        //BlockGatePurpleSwitchable id=185
+
+        //Name = new Bitmap(BlockData.Resources.b[block-id]),
     }
 }
