@@ -57,7 +57,7 @@ namespace BlockData
         public static readonly Bitmap BlockGateBlue = new Bitmap(BlockData.Resources._28);
         //public static readonly Bitmap BlockGateTimedGate = new Bitmap(BlockData.Resources._157);
         //public static readonly Bitmap BlockGateCoinGate = new Bitmap(BlockData.Resources._165);
-        //BlockGatePurpleSwitcha_le id=185
+        //BlockGatePurpleSwitchable id=185
 
         //Metal Pack
         public static readonly Bitmap BlockMetalWhite = new Bitmap(BlockData.Resources._29);
@@ -162,7 +162,37 @@ namespace BlockData
         //Coins
         public static readonly Bitmap BlockCoinGold = new Bitmap(BlockData.Resources._100);
         public static readonly Bitmap BlockCoinBlue = new Bitmap(BlockData.Resources._101);
-        
+
+        //Switch
+        public static readonly Bitmap BlockSwitchPurple = new Bitmap(BlockData.Resources._113);
+
+        //Boosts
+        public static readonly Bitmap BlockBoostLeft = new Bitmap(BlockData.Resources._114);
+        public static readonly Bitmap BlockBoostRight = new Bitmap(BlockData.Resources._115);
+        public static readonly Bitmap BlockBoostUp = new Bitmap(BlockData.Resources._116);
+        public static readonly Bitmap BlockBoostDown = new Bitmap(BlockData.Resources._117);
+
+        //Water
+        public static readonly Bitmap BlockWater = new Bitmap(BlockData.Resources._119);
+
+        //Ladders
+        public static readonly Bitmap BlockLadderCastle = new Bitmap(BlockData.Resources._118);
+        public static readonly Bitmap BlockLadderNinja = new Bitmap(BlockData.Resources._120);
+        public static readonly Bitmap BlockLadderJungleVertical = new Bitmap(BlockData.Resources._98);
+        public static readonly Bitmap BlockLadderJungleHorizontal = new Bitmap(BlockData.Resources._99);
+
+        //Tools
+        public static readonly Bitmap BlockToolWinTrophy = new Bitmap(BlockData.Resources._121);
+        public static readonly Bitmap BlockToolSpawnPoint = new Bitmap(BlockData.Resources._255);
+        //public static readonly Bitmap BlockToolCheckpoint = new Bitmap(BlockData.Resources._360);
+
+        //Cowboy Pack
+        public static readonly Bitmap BlockCowboyBrownLit = new Bitmap(BlockData.Resources._122);
+        public static readonly Bitmap BlockCowboyRedLit = new Bitmap(BlockData.Resources._123);
+        public static readonly Bitmap BlockCowboyBlueLit = new Bitmap(BlockData.Resources._124);
+        public static readonly Bitmap BlockCowboyBrownDark = new Bitmap(BlockData.Resources._125);
+        public static readonly Bitmap BlockCowboyRedDark = new Bitmap(BlockData.Resources._126);
+        public static readonly Bitmap BlockCowboyBlueDark = new Bitmap(BlockData.Resources._127);
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
     }
