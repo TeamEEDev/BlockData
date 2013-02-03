@@ -126,7 +126,21 @@ namespace BlockData
 
         //Music Pack
         public static readonly Bitmap BlockMusicPiano = new Bitmap(BlockData.Resources.b77);
-        public static readonly Bitmap BlockMusicDrum = new Bitmap(BlockData.Resources.b78);
+        public static readonly Bitmap BlockMusicDrum = new Bitmap(BlockData.Resources.b83);
+
+        //Christmas 2011 Pack
+        public static readonly Bitmap BlockChristmas2011YellowBox = new Bitmap(BlockData.Resources.b78);
+        public static readonly Bitmap BlockChristmas2011WhiteBox = new Bitmap(BlockData.Resources.b79);
+        public static readonly Bitmap BlockChristmas2011RedBox = new Bitmap(BlockData.Resources.b80);
+        public static readonly Bitmap BlockChristmas2011BlueBox = new Bitmap(BlockData.Resources.b81);
+        public static readonly Bitmap BlockChristmas2011GreenBox = new Bitmap(BlockData.Resources.b82);
+
+        //SciFi Pack
+        public static readonly Bitmap BlockSciFiSolidRed = new Bitmap(BlockData.Resources.b84);
+        public static readonly Bitmap BlockSciFiSolidBlue = new Bitmap(BlockData.Resources.b85);
+        public static readonly Bitmap BlockSciFiSolidGrey = new Bitmap(BlockData.Resources.b86);
+        public static readonly Bitmap BlockSciFiSolidWhite = new Bitmap(BlockData.Resources.b87);
+        public static readonly Bitmap BlockSciFiSolidBrown = new Bitmap(BlockData.Resources.b88);
 
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources.b[block-id]);
