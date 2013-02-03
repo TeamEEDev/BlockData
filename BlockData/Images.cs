@@ -101,6 +101,33 @@ namespace BlockData
         //Summer 2011 Pack
         BlockSummer2011Sand = new Bitmap(BlockData.Resources.b59),
 
+        //Candy Pack
+        BlockCandySolidPink = new Bitmap(BlockData.Resources.b60),
+        BlockCandyOneWayPink = new Bitmap(BlockData.Resources.b61),
+        BlockCandyOneWayRed = new Bitmap(BlockData.Resources.b62),
+        BlockCandyOneWayBlue = new Bitmap(BlockData.Resources.b63),
+        BlockCandyOneWayGreen = new Bitmap(BlockData.Resources.b64),
+        BlockCandySolidStripeyRedWhite = new Bitmap(BlockData.Resources.b65),
+        BlockCandySolidStripeyYellowBlackPink = new Bitmap(BlockData.Resources.b66),
+        BlockCandySolidChocolate = new Bitmap(BlockData.Resources.b67),
+
+        //Halloween 2011 Pack
+        BlockHalloween20111 = new Bitmap(BlockData.Resources.b68),
+        BlockHalloween20112 = new Bitmap(BlockData.Resources.b69),
+
+        //Mineral Pack
+        BlockMineralRed = new Bitmap(BlockData.Resources.b70),
+        BlockMineralPink = new Bitmap(BlockData.Resources.b71),
+        BlockMineralDarkBlue = new Bitmap(BlockData.Resources.b72),
+        BlockMineralLightBlue = new Bitmap(BlockData.Resources.b73),
+        BlockMineralGreen = new Bitmap(BlockData.Resources.b74),
+        BlockMineralYellow = new Bitmap(BlockData.Resources.b75),
+        BlockMineralOrange = new Bitmap(BlockData.Resources.b76),
+
+        //Music Pack
+        BlockMusicPiano = new Bitmap(BlockData.Resources.b77),
+        BlockMusicDrum = new Bitmap(BlockData.Resources.b78),
+
 
         //Name = new Bitmap(BlockData.Resources.b[block-id]),
     }
