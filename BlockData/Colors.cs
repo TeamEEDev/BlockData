@@ -51,7 +51,17 @@ namespace BlockData
         public static readonly Color BlockCandySolidStripeyRedWhite = Color.FromArgb(12743796);
         public static readonly Color BlockCandySolidStripeyYellowBlackPink = Color.FromArgb(10774865);
 
-        // Christmas 2011
+        // Checkered Blocks
+
+        public static readonly Color BlockCheckeredDarkBlue = Color.FromArgb(3101585);
+        public static readonly Color BlockCheckeredGreen = Color.FromArgb(4563767);
+        public static readonly Color BlockCheckeredGrey = Color.FromArgb(7039851);
+        public static readonly Color BlockCheckeredLightBlue = Color.FromArgb(3977900);
+        public static readonly Color BlockCheckeredPurple = Color.FromArgb(8404369);
+        public static readonly Color BlockCheckeredRed = Color.FromArgb(11016511);
+        public static readonly Color BlockCheckeredYellow = Color.FromArgb(11252531);
+
+        // Christmas 2011 Blocks
 
         public static readonly Color BlockChristmas2011BlueBox = Color.FromArgb(5642622);
         public static readonly Color BlockChristmas2011GreenBox = Color.FromArgb(5670165);
@@ -59,10 +69,23 @@ namespace BlockData
         public static readonly Color BlockChristmas2011WhiteBox = Color.FromArgb(12814468);
         public static readonly Color BlockChristmas2011YellowBox = Color.FromArgb(8306196);
 
+        // Cloud Block
+
+        public static readonly Color BlockCloud = Color.FromArgb(16186623);
+
         // Coins
 
         public static readonly Color BlockCoinBlue = Color.FromArgb(16777216);
         public static readonly Color BlockCoinGold = Color.FromArgb(16777216);
+
+        // Cowboy Blocks
+
+        public static readonly Color BlockCowboyBlueDark = Color.FromArgb(16777216);
+        public static readonly Color BlockCowboyBlueLit = Color.FromArgb(16777216);
+        public static readonly Color BlockCowboyBrownDark = Color.FromArgb(16777216);
+        public static readonly Color BlockCowboyBrownLit = Color.FromArgb(16777216);
+        public static readonly Color BlockCowboyRedDark = Color.FromArgb(16777216);
+        public static readonly Color BlockCowboyRedLit = Color.FromArgb(16777216);
 
         // Crown
 
@@ -119,16 +142,43 @@ namespace BlockData
         public static readonly Color BlockGravityRight = Color.FromArgb(16777216);
         public static readonly Color BlockGravityUp = Color.FromArgb(16777216);
 
-        // Halloween 2011
+        // Halloween 2011 Blocks
 
         public static readonly Color BlockHalloween20111 = Color.FromArgb(6837332);
         public static readonly Color BlockHalloween20112 = Color.FromArgb(6188660);
+
+        // Industrial Blocks
+
+        public static readonly Color BlockIndustrial2 = Color.FromArgb(16777216);
+        public static readonly Color BlockIndustrial3 = Color.FromArgb(16777216);
+        public static readonly Color BlockIndustrial4 = Color.FromArgb(8092282);
+        public static readonly Color BlockIndustrialConveyorBelt1 = Color.FromArgb(16777216);
+        public static readonly Color BlockIndustrialConveyorBelt2 = Color.FromArgb(5855320);
+        public static readonly Color BlockIndustrialConveyorBelt3 = Color.FromArgb(6184285);
+        public static readonly Color BlockIndustrialConveyorBelt4 = Color.FromArgb(16777216);
+        public static readonly Color BlockIndustrialOneWay = Color.FromArgb(16777216);
 
         // Key Blocks
 
         public static readonly Color BlockKeyBlue = Color.FromArgb(1710636);
         public static readonly Color BlockKeyGreen = Color.FromArgb(1715226);
         public static readonly Color BlockKeyRed = Color.FromArgb(2890266);
+
+        // Ladder Blocks
+
+        public static readonly Color BlockLadderCastle = Color.FromArgb(16777216);
+        public static readonly Color BlockLadderJungleVertical = Color.FromArgb(16777216);
+        public static readonly Color BlockLadderJungleHorizontal = Color.FromArgb(16777216);
+        public static readonly Color BlockLadderNinja = Color.FromArgb(16777216);
+
+        // Mars Blocks
+
+        public static readonly Color BlockMars1 = Color.FromArgb(16755524);
+        public static readonly Color BlockMars2 = Color.FromArgb(14521403);
+        public static readonly Color BlockMars3 = Color.FromArgb(13010228);
+        public static readonly Color BlockMars4 = Color.FromArgb(9527591);
+        public static readonly Color BlockMars5 = Color.FromArgb(16777216);
+        public static readonly Color BlockMars6 = Color.FromArgb(16777216);
 
         // Metal Blocks
 
@@ -156,14 +206,55 @@ namespace BlockData
         public static readonly Color BlockNinjaGrey = Color.FromArgb(16777216);
         public static readonly Color BlockNinjaWhite = Color.FromArgb(16777216);
 
+        // Pipe Blocks
+
+        public static readonly Color BlockPipeHoleOnDown = Color.FromArgb(13988866);
+        public static readonly Color BlockPipeHoleOnLeft = Color.FromArgb(13398796);
+        public static readonly Color BlockPipeHoleOnRight = Color.FromArgb(13266956);
+        public static readonly Color BlockPipeHoleOnUp = Color.FromArgb(13988866);
+        public static readonly Color BlockPipeHorizontalMiddle = Color.FromArgb(14580237);
+        public static readonly Color BlockPipeVerticalMiddle = Color.FromArgb(15367426);
+
         // Pirate Blocks
 
         public static readonly Color BlockPirate1 = Color.FromArgb(11572068);
         public static readonly Color BlockPirateChest = Color.FromArgb(11048021);
 
+        // Plastic Blocks
+
+        public static readonly Color BlockPlasticDarkBlue = Color.FromArgb(2835407);
+        public static readonly Color BlockPlasticDarkGreen = Color.FromArgb(2993168);
+        public static readonly Color BlockPlasticLightBlue = Color.FromArgb(7521771);
+        public static readonly Color BlockPlasticLightGreen = Color.FromArgb(9693968);
+        public static readonly Color BlockPlasticOrange = Color.FromArgb(15041055);
+        public static readonly Color BlockPlasticPink = Color.FromArgb(14297304);
+        public static readonly Color BlockPlasticRed = Color.FromArgb(13973285);
+        public static readonly Color BlockPlasticYellow = Color.FromArgb(14667545);
+
+        // Plate Iron Blocks
+
+        public static readonly Color BlockPlateIron1 = Color.FromArgb(8158332);
+        public static readonly Color BlockPlateIron2 = Color.FromArgb(5724250);
+
         // Prison Block
 
         public static readonly Color BlockPrison = Color.FromArgb(8421504);
+
+        // Rocket Blocks
+
+        public static readonly Color BlockRocketBlue = Color.FromArgb(6462460);
+        public static readonly Color BlockRocketGreen = Color.FromArgb(5494016);
+        public static readonly Color BlockRocketRed = Color.FromArgb(15156333);
+        public static readonly Color BlockRocketWhite = Color.FromArgb(15197933);
+
+        // Sand Blocks
+
+        public static readonly Color BlockSandDarkBrown = Color.FromArgb(7952691);
+        public static readonly Color BlockSandDarkerYellow = Color.FromArgb(15392653);
+        public static readonly Color BlockSandGrey = Color.FromArgb(10920074);
+        public static readonly Color BlockSandLightBrown = Color.FromArgb(11769705);
+        public static readonly Color BlockSandLightYellow = Color.FromArgb(15129267);
+        public static readonly Color BlockSandOrange = Color.FromArgb(14662234);
 
         // Sci-Fi Blocks
 
@@ -185,8 +276,8 @@ namespace BlockData
 
         public static readonly Color BlockSpecial1 = Color.FromArgb(9001746);
         public static readonly Color BlockSpecial2 = Color.FromArgb(13602850);
-        public static readonly Color BlockSpecialNormalBlack = Color.FromArgb(16777216);
         public static readonly Color BlockSpecialFullyBlack = Color.FromArgb(16777216);
+        public static readonly Color BlockSpecialNormalBlack = Color.FromArgb(16777216);
 
         // Summer 2011 Blocks
 
@@ -197,9 +288,23 @@ namespace BlockData
 
         public static readonly Color BlockSwitchPurple = Color.FromArgb(3749188);
 
+        // Timbered Block
+
+        public static readonly Color BlockTimbered = Color.FromArgb(16777216);
+
+        // Tool Blocks
+
+        public static readonly Color BlockToolCheckpoint = Color.FromArgb(16777216);
+        public static readonly Color BlockToolSpawnPoint = Color.FromArgb(3815994);
+        public static readonly Color BlockToolWinTrophy = Color.FromArgb(16777216);
+
         // Viking Block
 
         public static readonly Color BlockViking = Color.FromArgb(6908007);
+
+        // Water Block
+
+        public static readonly Color BlockWater = Color.FromArgb(16777216);
 
         // public static readonly Color Name = Color.FromArgb(color_value);
     }
