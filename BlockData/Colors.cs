@@ -350,55 +350,219 @@ namespace BlockData
 
         // Candy Decoration
 
+        public static readonly Color DecorationCandy = Color.FromArgb(16777216);
+
         // Chirstmas 2010 Decorations
+
+        public static readonly Color DecorationChristmas20101 = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas20102 = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2010SnowFreeTree = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2010SnowyTree = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2010SnowyFence = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2010SnowFreeFence = Color.FromArgb(16777216);
 
         // Christmas 2011 Decorations
 
+        public static readonly Color DecorationChristmas2011Star = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2011Wreath = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2011SphereBlue = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2011SphereGreen = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2011SphereRed = Color.FromArgb(16777216);
+
         // Christmas 2012 Decorations
+
+        public static readonly Color DecorationChristmas2012BlueVertical = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2012BlueHorizontal = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2012BlueCross = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2012RedVertical = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2012RedHorizontal = Color.FromArgb(16777216);
+        public static readonly Color DecorationChristmas2012RedCross = Color.FromArgb(16777216);
 
         // Cloud Decorations
 
+        public static readonly Color DecorationCloud1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud3 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud4 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud5 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud6 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud7 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCloud8 = Color.FromArgb(16777216);
+
         // Cowboy Decorations
+
+        public static readonly Color DecorationCowboyPoleLit = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyPoleDark = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyDoorBrownLeft = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyDoorBrownRight = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyDoorRedLeft = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyDoorRedRight = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyDoorBlueLeft = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyDoorBlueRight = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyWindow = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyTableBrownLit = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyTableBrownDark = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyTableRedLit = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyTableRedDark = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyTableBlueLit = Color.FromArgb(16777216);
+        public static readonly Color DecorationCowboyTableBlueDark = Color.FromArgb(16777216);
 
         // Easter 2012 Decorations
 
+        public static readonly Color DecorationEaster2012BlueEgg = Color.FromArgb(16777216);
+        public static readonly Color DecorationEaster2012PinkEgg = Color.FromArgb(16777216);
+        public static readonly Color DecorationEaster2012YellowEgg = Color.FromArgb(16777216);
+        public static readonly Color DecorationEaster2012RedEgg = Color.FromArgb(16777216);
+        public static readonly Color DecorationEaster2012GreenEgg = Color.FromArgb(16777216);
+
         // Fog Decorations
+
+        public static readonly Color DecorationFogFilled = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog3 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog4 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog5 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog6 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog7 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog8 = Color.FromArgb(16777216);
+        public static readonly Color DecorationFog9 = Color.FromArgb(16777216);
 
         // Halloween 2011 Decorations
 
+        public static readonly Color DecorationHalloween2011GraveStone = Color.FromArgb(16777216);
+        public static readonly Color DecorationHalloween20112 = Color.FromArgb(16777216);
+        public static readonly Color DecorationHalloween20113 = Color.FromArgb(16777216);
+
         // Halloween 2012 Decorations
+
+        public static readonly Color DecorationHalloween20121 = Color.FromArgb(16777216);
+        public static readonly Color DecorationHalloween20122 = Color.FromArgb(16777216);
+        public static readonly Color DecorationHalloween2012WiresVertical = Color.FromArgb(16777216);
+        public static readonly Color DecorationHalloween2012WiresHorizontal = Color.FromArgb(16777216);
+        public static readonly Color DecorationHalloween20125 = Color.FromArgb(16777216);
 
         // Jungle Decorations
 
+        public static readonly Color DecorationJungleGrass = Color.FromArgb(16777216);
+        public static readonly Color DecorationJungle2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationJungleTrophy = Color.FromArgb(16777216);
+
         // Mars Decoration
+
+        public static readonly Color DecorationMars = Color.FromArgb(16777216);
 
         // Monster Decorations
 
+        public static readonly Color DecorationMonsterRockGroundBig = Color.FromArgb(16777216);
+        public static readonly Color DecorationMonsterRockGroundSmall = Color.FromArgb(16777216);
+        public static readonly Color DecorationMonsterRockCeiling = Color.FromArgb(16777216);
+        public static readonly Color DecorationMonsterEyeOrange = Color.FromArgb(16777216);
+        public static readonly Color DecorationMonsterEyeBlue = Color.FromArgb(16777216);
+
         // Ninja Decorations
+
+        public static readonly Color DecorationNinja1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja3 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja4 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja5 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja6 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja7 = Color.FromArgb16777216();
+        public static readonly Color DecorationNinja8 = Color.FromArgb(16777216);
+        public static readonly Color DecorationNinja9 = Color.FromArgb(16777216);
 
         // New Year 2010 Decorations
 
+        public static readonly Color DecorationNewYear2010Purple = Color.FromArgb(16777216);
+        public static readonly Color DecorationNewYear2010Yellow = Color.FromArgb(16777216);
+        public static readonly Color DecorationNewYear2010Blue = Color.FromArgb(16777216);
+        public static readonly Color DecorationNewYear2010Red = Color.FromArgb(16777216);
+        public static readonly Color DecorationNewYear2010Green = Color.FromArgb(16777216);
+
+        // Pirate Decorations
+
+        public static readonly Color DecorationPirate1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationPirateSkull = Color.FromArgb(16777216);
+
         // Prison Decoration
+
+        public static readonly Color DecorationPrison = Color.FromArgb(16777216);
 
         // Prize Decoration
 
+        public static readonly Color DecorationPrizeTrophy = Color.FromArgb(16777216);
+
         // Rocket Decorations
+
+        public static readonly Color DecorationRocketGreenSign = Color.FromArgb(16777216);
+        public static readonly Color DecorationRocketRed = Color.FromArgb(16777216);
+        public static readonly Color DecorationRocketBlue = Color.FromArgb(16777216);
+        public static readonly Color DecorationRocketComputer = Color.FromArgb(16777216);
 
         // Sand Decorations
 
+        public static readonly Color DecorationSandLightYellow = Color.FromArgb(16777216);
+        public static readonly Color DecorationSandGrey = Color.FromArgb(16777216);
+        public static readonly Color DecorationSandDarkerYellow = Color.FromArgb(16777216);
+        public static readonly Color DecorationSandOrange = Color.FromArgb(16777216);
+        public static readonly Color DecorationSandLightBrown = Color.FromArgb(16777216);
+        public static readonly Color DecorationSandDarkBrown = Color.FromArgb(16777216);
+
         // Spring 2011 Decorations
+
+        public static readonly Color DecorationSpring2011Grass1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011Grass2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011Grass3 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011OblongBush1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011OblongBush2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011OblongBush3 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011Flower = Color.FromArgb(16777216);
+        public static readonly Color DecorationSpring2011GlobularBush = Color.FromArgb(16777216);
 
         // Summer 2011 Decorations
 
+        public static readonly Color DecorationSummer2011Sunshade = Color.FromArgb(16777216);
+        public static readonly Color DecorationSummer20111 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSummer20112 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSummer2011Rock = Color.FromArgb(16777216);
+
         // Summer 2012 Decorations
+
+        public static readonly Color DecorationSummer2012Ball = Color.FromArgb(16777216);
+        public static readonly Color DecorationSummer2012Bucket = Color.FromArgb(16777216);
+        public static readonly Color DecorationSummer2012Grubber = Color.FromArgb(16777216);
+        public static readonly Color DecorationSummer2012Cocktail = Color.FromArgb(16777216);
 
         // Viking Decorations
 
+        public static readonly Color DecorationVikingRedShield = Color.FromArgb(16777216);
+        public static readonly Color DecorationVikingBlueShield = Color.FromArgb(16777216);
+        public static readonly Color DecorationVikingAx = Color.FromArgb(16777216);
+
         // Warning Decorations
+
+        public static readonly Color DecorationWarningSignFire = Color.FromArgb(16777216);
+        public static readonly Color DecorationWarningSignSkull = Color.FromArgb(16777216);
+        public static readonly Color DecorationWarningSignLightning = Color.FromArgb(16777216);
+        public static readonly Color DecorationWarningSignCross = Color.FromArgb(16777216);
+        public static readonly Color DecorationWarningSignHorizontalLine = Color.FromArgb(16777216);
+        public static readonly Color DecorationWarningSignVerticalLine = Color.FromArgb(16777216);
 
         // Water Decoration
 
+        public static readonly Color DecorationWater = Color.FromArgb(16777216);
+
         // Window Decorations
+
+        public static readonly Color DecorationWindowFullyTransparent = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentLightGreen = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentDarkGreen = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentLightBlue = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentDarkBlue = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentPink = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentRed = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentOrange = Color.FromArgb(16777216);
+        public static readonly Color DecorationWindowTransparentYellow = Color.FromArgb(16777216);
 
         #endregion
 
