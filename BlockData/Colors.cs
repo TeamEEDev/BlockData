@@ -40,6 +40,10 @@ namespace BlockData
         public static readonly Color BlockBrickRed = Color.FromArgb(7283753);
         public static readonly Color BlockBrickSaturatedBrown = Color.FromArgb(9125385);
 
+        // Cake Block
+
+        public static readonly Color BlockCake = Color.FromArgb(16711935);
+
         // Candy Blocks
 
         public static readonly Color BlockCandyOneWayBlue = Color.FromArgb(3232612);
@@ -90,6 +94,10 @@ namespace BlockData
         // Crown
 
         public static readonly Color BlockCrown = Color.FromArgb(4405535);
+
+        // Diamond Block
+
+        public static readonly Color BlockDiamond = Color.FromArgb(8947848);
 
         // Doors
 
@@ -147,6 +155,11 @@ namespace BlockData
         public static readonly Color BlockHalloween20111 = Color.FromArgb(6837332);
         public static readonly Color BlockHalloween20112 = Color.FromArgb(6188660);
 
+        // Hazard Blocks
+
+        public static readonly Color BlockHazardSpike = Color.FromArgb(16777216);
+        public static readonly Color BlockHazardFire = Color.FromArgb(16777216);
+
         // Industrial Blocks
 
         public static readonly Color BlockIndustrial2 = Color.FromArgb(16777216);
@@ -157,6 +170,19 @@ namespace BlockData
         public static readonly Color BlockIndustrialConveyorBelt3 = Color.FromArgb(6184285);
         public static readonly Color BlockIndustrialConveyorBelt4 = Color.FromArgb(16777216);
         public static readonly Color BlockIndustrialOneWay = Color.FromArgb(16777216);
+
+        // Jungle Ruins Blocks
+
+        public static readonly Color BlockJungleRuinsOneWay = Color.FromArgb(16777216);
+        public static readonly Color BlockJungleRuinsSolidBlue = Color.FromArgb(6457498);
+        public static readonly Color BlockJungleRuinsSolidNonRoundedGrey = Color.FromArgb(10066298);
+        public static readonly Color BlockJungleRuinsSolidRed = Color.FromArgb(11300961);
+        public static readonly Color BlockJungleRuinsSolidRoundedEdgeFace = Color.FromArgb(16777216);
+        public static readonly Color BlockJungleRuinsSolidYellow = Color.FromArgb(8881217);
+
+        // Jungle Block
+
+        public static readonly Color BlockJungleVase = Color.FromArgb(16777216);
 
         // Key Blocks
 
@@ -235,6 +261,10 @@ namespace BlockData
 
         public static readonly Color BlockPlateIron1 = Color.FromArgb(8158332);
         public static readonly Color BlockPlateIron2 = Color.FromArgb(5724250);
+
+        // Portal Block
+
+        public static readonly Color BlockPortal = Color.FromArgb(7508654);
 
         // Prison Block
 
