@@ -2,133 +2,133 @@
 
 namespace BlockData
 {
-    public enum Images
+    public class Images
     {
         //Gravity
-        BlockGravityNothing = new Bitmap(BlockData.Resources.b0),
-        BlockGravityLeft = new Bitmap(BlockData.Resources.b1),
-        BlockGravityUp = new Bitmap(BlockData.Resources.b2),
-        BlockGravityRight = new Bitmap(BlockData.Resources.b3),
-        BlockGravityDot = new Bitmap(BlockData.Resources.b4),
+        public static Bitmap BlockGravityNothing = new Bitmap(BlockData.Resources.b0);
+        public static Bitmap BlockGravityLeft = new Bitmap(BlockData.Resources.b1);
+        public static Bitmap BlockGravityUp = new Bitmap(BlockData.Resources.b2);
+        public static Bitmap BlockGravityRight = new Bitmap(BlockData.Resources.b3);
+        public static Bitmap BlockGravityDot = new Bitmap(BlockData.Resources.b4);
 
         //Crown
-        BlockCrown = new Bitmap(BlockData.Resources.b5),
+        public static Bitmap BlockCrown = new Bitmap(BlockData.Resources.b5);
 
         //Keys
-        BlockKeyRed = new Bitmap(BlockData.Resources.b6),
-        BlockKeyGreen = new Bitmap(BlockData.Resources.b7),
-        BlockKeyBlue = new Bitmap(BlockData.Resources.b8),
+        public static Bitmap BlockKeyRed = new Bitmap(BlockData.Resources.b6);
+        public static Bitmap BlockKeyGreen = new Bitmap(BlockData.Resources.b7);
+        public static Bitmap BlockKeyBlue = new Bitmap(BlockData.Resources.b8);
 
         //Basic Block Pack
-        BlockBasicGrey = new Bitmap(BlockData.Resources.b9),
-        BlockBasicBlue = new Bitmap(BlockData.Resources.b10),
-        BlockBasicPurple = new Bitmap(BlockData.Resources.b11),
-        BlockBasicRed = new Bitmap(BlockData.Resources.b12),
-        BlockBasicYellow = new Bitmap(BlockData.Resources.b13),
-        BlockBasicGreen = new Bitmap(BlockData.Resources.b14),
-        BlockBasicLightBlue = new Bitmap(BlockData.Resources.b15),
-        BlockBasicBlack = new Bitmap(BlockData.Resources.b182),
+        public static Bitmap BlockBasicGrey = new Bitmap(BlockData.Resources.b9);
+        public static Bitmap BlockBasicBlue = new Bitmap(BlockData.Resources.b10);
+        public static Bitmap BlockBasicPurple = new Bitmap(BlockData.Resources.b11);
+        public static Bitmap BlockBasicRed = new Bitmap(BlockData.Resources.b12);
+        public static Bitmap BlockBasicYellow = new Bitmap(BlockData.Resources.b13);
+        public static Bitmap BlockBasicGreen = new Bitmap(BlockData.Resources.b14);
+        public static Bitmap BlockBasicLightBlue = new Bitmap(BlockData.Resources.b15);
+        public static Bitmap BlockBasicBlack = new Bitmap(BlockData.Resources.b182);
 
         //Brick Pack
-        BlockBrickSaturatedBrown = new Bitmap(BlockData.Resources.b16),
-        BlockBrickDarkGreen = new Bitmap(BlockData.Resources.b17),
-        BlockBrickPurple = new Bitmap(BlockData.Resources.b18),
-        BlockBrickLightGreen = new Bitmap(BlockData.Resources.b19),
-        BlockBrickRed = new Bitmap(BlockData.Resources.b20),
-        BlockBrickPaleBrown = new Bitmap(BlockData.Resources.b21),
+        public static Bitmap BlockBrickSaturatedBrown = new Bitmap(BlockData.Resources.b16);
+        public static Bitmap BlockBrickDarkGreen = new Bitmap(BlockData.Resources.b17);
+        public static Bitmap BlockBrickPurple = new Bitmap(BlockData.Resources.b18);
+        public static Bitmap BlockBrickLightGreen = new Bitmap(BlockData.Resources.b19);
+        public static Bitmap BlockBrickRed = new Bitmap(BlockData.Resources.b20);
+        public static Bitmap BlockBrickPaleBrown = new Bitmap(BlockData.Resources.b21);
 
         //Special Blocks Pack
-        BlockSpecial1 = new Bitmap(BlockData.Resources.b22),
-        BlockSpecial2 = new Bitmap(BlockData.Resources.b32),
-        BlockSpecialNormalBlack = new Bitmap(BlockData.Resources.b33),
-        BlockSpecialFullyBlack = new Bitmap(BlockData.Resources.b44),
+        public static Bitmap BlockSpecial1 = new Bitmap(BlockData.Resources.b22);
+        public static Bitmap BlockSpecial2 = new Bitmap(BlockData.Resources.b32);
+        public static Bitmap BlockSpecialNormalBlack = new Bitmap(BlockData.Resources.b33);
+        public static Bitmap BlockSpecialFullyBlack = new Bitmap(BlockData.Resources.b44);
 
         //Doors Pack
-        BlockDoorRed = new Bitmap(BlockData.Resources.b23),
-        BlockDoorGreen = new Bitmap(BlockData.Resources.b24),
-        BlockDoorBlue = new Bitmap(BlockData.Resources.b25),
-        BlockDoorCoinDoor = new Bitmap(BlockData.Resources.b43),
-        BlockDoorTimedDoor = new Bitmap(BlockData.Resources.b156),
-        BlockDoorPurpleSwitchable = new Bitmap(BlockData.Resources.b184),
+        public static Bitmap BlockDoorRed = new Bitmap(BlockData.Resources.b23);
+        public static Bitmap BlockDoorGreen = new Bitmap(BlockData.Resources.b24);
+        public static Bitmap BlockDoorBlue = new Bitmap(BlockData.Resources.b25);
+        public static Bitmap BlockDoorCoinDoor = new Bitmap(BlockData.Resources.b43);
+        public static Bitmap BlockDoorTimedDoor = new Bitmap(BlockData.Resources.b156);
+        public static Bitmap BlockDoorPurpleSwitchable = new Bitmap(BlockData.Resources.b184);
 
         //Gates Pack
-        BlockGateRed = new Bitmap(BlockData.Resources.b26),
-        BlockGateGreen = new Bitmap(BlockData.Resources.b27),
-        BlockGateBlue = new Bitmap(BlockData.Resources.b28),
-        BlockGateTimedGate = new Bitmap(BlockData.Resources.b157),
-        BlockGateCoinGate = new Bitmap(BlockData.Resources.b165),
+        public static Bitmap BlockGateRed = new Bitmap(BlockData.Resources.b26);
+        public static Bitmap BlockGateGreen = new Bitmap(BlockData.Resources.b27);
+        public static Bitmap BlockGateBlue = new Bitmap(BlockData.Resources.b28);
+        public static Bitmap BlockGateTimedGate = new Bitmap(BlockData.Resources.b157);
+        public static Bitmap BlockGateCoinGate = new Bitmap(BlockData.Resources.b165);
         //BlockGatePurpleSwitchable id=185
 
         //Metal Pack
-        BlockMetalWhite = new Bitmap(BlockData.Resources.b29),
-        BlockMetalRed = new Bitmap(BlockData.Resources.b30),
-        BlockMetalYellow = new Bitmap(BlockData.Resources.b31),
+        public static Bitmap BlockMetalWhite = new Bitmap(BlockData.Resources.b29);
+        public static Bitmap BlockMetalRed = new Bitmap(BlockData.Resources.b30);
+        public static Bitmap BlockMetalYellow = new Bitmap(BlockData.Resources.b31);
 
         //Grass Pack
-        BlockGrass1 = new Bitmap(BlockData.Resources.b34),
-        BlockGrass2 = new Bitmap(BlockData.Resources.b35),
-        BlockGrass3 = new Bitmap(BlockData.Resources.b36),
+        public static Bitmap BlockGrass1 = new Bitmap(BlockData.Resources.b34);
+        public static Bitmap BlockGrass2 = new Bitmap(BlockData.Resources.b35);
+        public static Bitmap BlockGrass3 = new Bitmap(BlockData.Resources.b36);
 
         //Beta Pack
-        BlockBetaPink = new Bitmap(BlockData.Resources.b37),
-        BlockBetaGreen = new Bitmap(BlockData.Resources.b38),
-        BlockBetaBlue = new Bitmap(BlockData.Resources.b39),
-        BlockBetaRed = new Bitmap(BlockData.Resources.b40),
-        BlockBetaYellow = new Bitmap(BlockData.Resources.b41),
-        BlockBetaGrey = new Bitmap(BlockData.Resources.b42),
+        public static Bitmap BlockBetaPink = new Bitmap(BlockData.Resources.b37);
+        public static Bitmap BlockBetaGreen = new Bitmap(BlockData.Resources.b38);
+        public static Bitmap BlockBetaBlue = new Bitmap(BlockData.Resources.b39);
+        public static Bitmap BlockBetaRed = new Bitmap(BlockData.Resources.b40);
+        public static Bitmap BlockBetaYellow = new Bitmap(BlockData.Resources.b41);
+        public static Bitmap BlockBetaGrey = new Bitmap(BlockData.Resources.b42);
 
         //Factory Pack
-        BlockFactory1 = new Bitmap(BlockData.Resources.b45),
-        BlockFactory2 = new Bitmap(BlockData.Resources.b46),
-        BlockFactory3 = new Bitmap(BlockData.Resources.b47),
-        BlockFactory4 = new Bitmap(BlockData.Resources.b48),
-        BlockFactory5 = new Bitmap(BlockData.Resources.b49),
+        public static Bitmap BlockFactory1 = new Bitmap(BlockData.Resources.b45);
+        public static Bitmap BlockFactory2 = new Bitmap(BlockData.Resources.b46);
+        public static Bitmap BlockFactory3 = new Bitmap(BlockData.Resources.b47);
+        public static Bitmap BlockFactory4 = new Bitmap(BlockData.Resources.b48);
+        public static Bitmap BlockFactory5 = new Bitmap(BlockData.Resources.b49);
 
         //Secrets
-        BlockSecretUnpassable = new Bitmap(BlockData.Resources.b50),
-        BlockSecretPassable = new Bitmap(BlockData.Resources.b243),
+        public static Bitmap BlockSecretUnpassable = new Bitmap(BlockData.Resources.b50);
+        public static Bitmap BlockSecretPassable = new Bitmap(BlockData.Resources.b243);
 
         //Glass Pack
-        BlockGlassRed = new Bitmap(BlockData.Resources.b51),
-        BlockGlassPink = new Bitmap(BlockData.Resources.b52),
-        BlockGlassPurple = new Bitmap(BlockData.Resources.b53),
-        BlockGlassDarkBlue = new Bitmap(BlockData.Resources.b54),
-        BlockGlassLightBlue = new Bitmap(BlockData.Resources.b55),
-        BlockGlassGreen = new Bitmap(BlockData.Resources.b56),
-        BlockGlassYellow = new Bitmap(BlockData.Resources.b57),
-        BlockGlassOrange = new Bitmap(BlockData.Resources.b58),
+        public static Bitmap BlockGlassRed = new Bitmap(BlockData.Resources.b51);
+        public static Bitmap BlockGlassPink = new Bitmap(BlockData.Resources.b52);
+        public static Bitmap BlockGlassPurple = new Bitmap(BlockData.Resources.b53);
+        public static Bitmap BlockGlassDarkBlue = new Bitmap(BlockData.Resources.b54);
+        public static Bitmap BlockGlassLightBlue = new Bitmap(BlockData.Resources.b55);
+        public static Bitmap BlockGlassGreen = new Bitmap(BlockData.Resources.b56);
+        public static Bitmap BlockGlassYellow = new Bitmap(BlockData.Resources.b57);
+        public static Bitmap BlockGlassOrange = new Bitmap(BlockData.Resources.b58);
         
         //Summer 2011 Pack
-        BlockSummer2011Sand = new Bitmap(BlockData.Resources.b59),
+        public static Bitmap BlockSummer2011Sand = new Bitmap(BlockData.Resources.b59);
 
         //Candy Pack
-        BlockCandySolidPink = new Bitmap(BlockData.Resources.b60),
-        BlockCandyOneWayPink = new Bitmap(BlockData.Resources.b61),
-        BlockCandyOneWayRed = new Bitmap(BlockData.Resources.b62),
-        BlockCandyOneWayBlue = new Bitmap(BlockData.Resources.b63),
-        BlockCandyOneWayGreen = new Bitmap(BlockData.Resources.b64),
-        BlockCandySolidStripeyRedWhite = new Bitmap(BlockData.Resources.b65),
-        BlockCandySolidStripeyYellowBlackPink = new Bitmap(BlockData.Resources.b66),
-        BlockCandySolidChocolate = new Bitmap(BlockData.Resources.b67),
+        public static Bitmap BlockCandySolidPink = new Bitmap(BlockData.Resources.b60);
+        public static Bitmap BlockCandyOneWayPink = new Bitmap(BlockData.Resources.b61);
+        public static Bitmap BlockCandyOneWayRed = new Bitmap(BlockData.Resources.b62);
+        public static Bitmap BlockCandyOneWayBlue = new Bitmap(BlockData.Resources.b63);
+        public static Bitmap BlockCandyOneWayGreen = new Bitmap(BlockData.Resources.b64);
+        public static Bitmap BlockCandySolidStripeyRedWhite = new Bitmap(BlockData.Resources.b65);
+        public static Bitmap BlockCandySolidStripeyYellowBlackPink = new Bitmap(BlockData.Resources.b66);
+        public static Bitmap BlockCandySolidChocolate = new Bitmap(BlockData.Resources.b67);
 
         //Halloween 2011 Pack
-        BlockHalloween20111 = new Bitmap(BlockData.Resources.b68),
-        BlockHalloween20112 = new Bitmap(BlockData.Resources.b69),
+        public static Bitmap BlockHalloween20111 = new Bitmap(BlockData.Resources.b68);
+        public static Bitmap BlockHalloween20112 = new Bitmap(BlockData.Resources.b69);
 
         //Mineral Pack
-        BlockMineralRed = new Bitmap(BlockData.Resources.b70),
-        BlockMineralPink = new Bitmap(BlockData.Resources.b71),
-        BlockMineralDarkBlue = new Bitmap(BlockData.Resources.b72),
-        BlockMineralLightBlue = new Bitmap(BlockData.Resources.b73),
-        BlockMineralGreen = new Bitmap(BlockData.Resources.b74),
-        BlockMineralYellow = new Bitmap(BlockData.Resources.b75),
-        BlockMineralOrange = new Bitmap(BlockData.Resources.b76),
+        public static Bitmap BlockMineralRed = new Bitmap(BlockData.Resources.b70);
+        public static Bitmap BlockMineralPink = new Bitmap(BlockData.Resources.b71);
+        public static Bitmap BlockMineralDarkBlue = new Bitmap(BlockData.Resources.b72);
+        public static Bitmap BlockMineralLightBlue = new Bitmap(BlockData.Resources.b73);
+        public static Bitmap BlockMineralGreen = new Bitmap(BlockData.Resources.b74);
+        public static Bitmap BlockMineralYellow = new Bitmap(BlockData.Resources.b75);
+        public static Bitmap BlockMineralOrange = new Bitmap(BlockData.Resources.b76);
 
         //Music Pack
-        BlockMusicPiano = new Bitmap(BlockData.Resources.b77),
-        BlockMusicDrum = new Bitmap(BlockData.Resources.b78),
+        public static Bitmap BlockMusicPiano = new Bitmap(BlockData.Resources.b77);
+        public static Bitmap BlockMusicDrum = new Bitmap(BlockData.Resources.b78);
 
 
-        //Name = new Bitmap(BlockData.Resources.b[block-id]),
+        //public static Bitmap Name = new Bitmap(BlockData.Resources.b[block-id]);
     }
 }
