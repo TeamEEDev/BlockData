@@ -194,6 +194,44 @@ namespace BlockData
         public static readonly Bitmap BlockCowboyRedDark = new Bitmap(BlockData.Resources._126);
         public static readonly Bitmap BlockCowboyBlueDark = new Bitmap(BlockData.Resources._127);
 
+        //Plastic Pack
+        public static readonly Bitmap BlockPlasticLightGreen = new Bitmap(BlockData.Resources._128);
+        public static readonly Bitmap BlockPlasticRed = new Bitmap(BlockData.Resources._129);
+        public static readonly Bitmap BlockPlasticYellow = new Bitmap(BlockData.Resources._130);
+        public static readonly Bitmap BlockPlasticLightBlue = new Bitmap(BlockData.Resources._131);
+        public static readonly Bitmap BlockPlasticDarkBlue = new Bitmap(BlockData.Resources._132);
+        public static readonly Bitmap BlockPlasticPink = new Bitmap(BlockData.Resources._133);
+        public static readonly Bitmap BlockPlasticDarkGreen = new Bitmap(BlockData.Resources._134);
+        public static readonly Bitmap BlockPlasticOrange = new Bitmap(BlockData.Resources._135);
+
+        //Sand Pack
+        public static readonly Bitmap BlockSandLightYellow = new Bitmap(BlockData.Resources._137);
+        public static readonly Bitmap BlockSandGrey = new Bitmap(BlockData.Resources._138);
+        public static readonly Bitmap BlockSandDarkerYellow = new Bitmap(BlockData.Resources._139);
+        public static readonly Bitmap BlockSandOrange = new Bitmap(BlockData.Resources._140);
+        public static readonly Bitmap BlockSandLightBrown = new Bitmap(BlockData.Resources._141);
+        public static readonly Bitmap BlockSandDarkBrown = new Bitmap(BlockData.Resources._142);
+
+        //Cloud Pack
+        public static readonly Bitmap BlockCloud = new Bitmap(BlockData.Resources._143);
+
+        //Plates
+        public static readonly Bitmap BlockPlateIron1 = new Bitmap(BlockData.Resources._144);
+        public static readonly Bitmap BlockPlateIron2 = new Bitmap(BlockData.Resources._145);
+
+        //Industrial Pack
+        public static readonly Bitmap BlockIndustrialOneWay = new Bitmap(BlockData.Resources._146);
+        public static readonly Bitmap BlockIndustrial2 = new Bitmap(BlockData.Resources._147);
+        public static readonly Bitmap BlockIndustrial3 = new Bitmap(BlockData.Resources._148);
+        public static readonly Bitmap BlockIndustrial4 = new Bitmap(BlockData.Resources._149);
+        public static readonly Bitmap BlockIndustrialConveyerBelt1 = new Bitmap(BlockData.Resources._150);
+        public static readonly Bitmap BlockIndustrialConveyerBelt2 = new Bitmap(BlockData.Resources._151);
+        public static readonly Bitmap BlockIndustrialConveyerBelt3 = new Bitmap(BlockData.Resources._152);
+        public static readonly Bitmap BlockIndustrialConveyerBelt4 = new Bitmap(BlockData.Resources._153);
+        
+
+
+
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
     }
 }
