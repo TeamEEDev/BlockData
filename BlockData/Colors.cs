@@ -591,11 +591,32 @@ namespace BlockData
 
         // Canvas Backgrounds
 
+        public static readonly Color BackgroundCanvasBlue = Color.FromArgb(2122891);
+        public static readonly Color BackgroundCanvasGreen = Color.FromArgb(6589216);
+        public static readonly Color BackgroundCanvasGrey = Color.FromArgb(3948616);
+        public static readonly Color BackgroundCanvasPaleBrown = Color.FromArgb(6905920);
+        public static readonly Color BackgroundCanvasSaturatedBrown = Color.FromArgb(9059360);
+        public static readonly Color BackgroundCanvasYellow = Color.FromArgb(8809765);
+
         // Christmas 2012 Backgrounds
 
         // Carnival Backgrounds
 
+        public static readonly Color BackgroundCarnivalChecker = Color.FromArgb(5789784);
+        public static readonly Color BackgroundCarnivalGreen = Color.FromArgb(233753);
+        public static readonly Color BackgroundCarnivalPink = Color.FromArgb(10832000);
+        public static readonly Color BackgroundCarnivalStripeyRedYellow = Color.FromArgb(13203004);
+        public static readonly Color BackgroundCarnivalStripeyPurpleBlue = Color.FromArgb(3021680);
+
         // Checkered Backgrounds
+
+        public static readonly Color BackgroundCheckeredDarkBlue = Color.FromArgb(2045535);
+        public static readonly Color BackgroundCheckeredGreen = Color.FromArgb(2447646);
+        public static readonly Color BackgroundCheckeredGrey = Color.FromArgb(3947580);
+        public static readonly Color BackgroundCheckeredLightBlue = Color.FromArgb(2320228);
+        public static readonly Color BackgroundCheckeredPurple = Color.FromArgb(5580896);
+        public static readonly Color BackgroundCheckeredRed = Color.FromArgb(6164003);
+        public static readonly Color BackgroundCheckeredYellow = Color.FromArgb(5397021);
 
         // Cowboy Backgrounds
 
@@ -607,6 +628,14 @@ namespace BlockData
         public static readonly Color BackgroundCowboyRedLit = Color.FromArgb(11088174);
 
         // Dark Backgrounds
+
+        public static readonly Color BackgroundDarkDarkBlue = Color.FromArgb(1847901);
+        public static readonly Color BackgroundDarkGreen = Color.FromArgb(1921816);
+        public static readonly Color BackgroundDarkGrey = Color.FromArgb(3487029);
+        public static readonly Color BackgroundDarkLightBlue = Color.FromArgb(1858907);
+        public static readonly Color BackgroundDarkRed = Color.FromArgb(5311518);
+        public static readonly Color BackgroundDarkPurple = Color.FromArgb(4986963);
+        public static readonly Color BackgroundDarkYellow = Color.FromArgb(4739864);
 
         // Halloween 2011 Backgrounds
 
@@ -647,6 +676,13 @@ namespace BlockData
         // Normal Backgrounds
 
         // Pastel Backgrounds
+
+        public static readonly Color BackgroundPastelDarkerBlue = Color.FromArgb(11059452);
+        public static readonly Color BackgroundPastelDarkerGreen = Color.FromArgb(11599016);
+        public static readonly Color BackgroundPastelLightBlue = Color.FromArgb(11074556);
+        public static readonly Color BackgroundPastelLimeGreen = Color.FromArgb(14220456);
+        public static readonly Color BackgroundPastelRed = Color.FromArgb(16751515);
+        public static readonly Color BackgroundPastelYellow = Color.FromArgb(16575656);
 
         // Pirate Backgrounds
 
