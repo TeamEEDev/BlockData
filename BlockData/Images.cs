@@ -229,7 +229,39 @@ namespace BlockData
         public static readonly Bitmap BlockIndustrialConveyerBelt3 = new Bitmap(BlockData.Resources._152);
         public static readonly Bitmap BlockIndustrialConveyerBelt4 = new Bitmap(BlockData.Resources._153);
         
+        //Timbered Pack
+        public static readonly Bitmap BlockTimbered = new Bitmap(BlockData.Resources._154);
 
+        //Pipe Pack
+        public static readonly Bitmap BlockPipeHoleOnLeft = new Bitmap(BlockData.Resources._166);
+        public static readonly Bitmap BlockPipeHorizontalMiddle = new Bitmap(BlockData.Resources._167);
+        public static readonly Bitmap BlockPipeHoleOnRight = new Bitmap(BlockData.Resources._168);
+        public static readonly Bitmap BlockPipeHoleOnUp = new Bitmap(BlockData.Resources._169);
+        public static readonly Bitmap BlockPipeVerticalMiddle = new Bitmap(BlockData.Resources._170);
+        public static readonly Bitmap BlockPipeHoleOnDown = new Bitmap(BlockData.Resources._171);
+
+        //Rocket Pack
+        public static readonly Bitmap BlockRocketWhite = new Bitmap(BlockData.Resources._172);
+        public static readonly Bitmap BlockRocketBlue = new Bitmap(BlockData.Resources._173);
+        public static readonly Bitmap BlockRocketGreen = new Bitmap(BlockData.Resources._174);
+        public static readonly Bitmap BlockRocketRed = new Bitmap(BlockData.Resources._175);
+
+        //Mars Pack
+        public static readonly Bitmap BlockMars1 = new Bitmap(BlockData.Resources._176);
+        public static readonly Bitmap BlockMars2 = new Bitmap(BlockData.Resources._177);
+        public static readonly Bitmap BlockMars3 = new Bitmap(BlockData.Resources._178);
+        public static readonly Bitmap BlockMars4 = new Bitmap(BlockData.Resources._179);
+        public static readonly Bitmap BlockMars5 = new Bitmap(BlockData.Resources._180);
+        public static readonly Bitmap BlockMars6 = new Bitmap(BlockData.Resources._181);
+
+        //Checkered Pack
+        public static readonly Bitmap BlockCheckeredGrey = new Bitmap(BlockData.Resources._186);
+        public static readonly Bitmap BlockCheckeredDarkBlue = new Bitmap(BlockData.Resources._187);
+        public static readonly Bitmap BlockCheckeredPurple = new Bitmap(BlockData.Resources._188);
+        public static readonly Bitmap BlockCheckeredRed = new Bitmap(BlockData.Resources._189);
+        public static readonly Bitmap BlockCheckeredYellow = new Bitmap(BlockData.Resources._190);
+        public static readonly Bitmap BlockCheckeredGreen = new Bitmap(BlockData.Resources._191);
+        public static readonly Bitmap BlockCheckeredLightBlue = new Bitmap(BlockData.Resources._192);
 
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
