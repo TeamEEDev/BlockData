@@ -570,7 +570,22 @@ namespace BlockData
 
         // Basic Backgrounds
 
+        public static readonly Color BackgroundBasicDarkBlue = Color.FromArgb(1714517);
+        public static readonly Color BackgroundBasicGreen = Color.FromArgb(1987096);
+        public static readonly Color BackgroundBasicGrey = Color.FromArgb(3421236);
+        public static readonly Color BackgroundBasicLightBlue = Color.FromArgb(1527635);
+        public static readonly Color BackgroundBasicPurple = Color.FromArgb(4855633);
+        public static readonly Color BackgroundBasicRed = Color.FromArgb(5577258);
+        public static readonly Color BackgroundBasicYellow = Color.FromArgb(4608535);
+
         // Brick Backgrounds
+
+        public static readonly Color BackgroundBrickDarkGreen = Color.FromArgb(1128230);
+        public static readonly Color BackgroundBrickLightGreen = Color.FromArgb(2179336);
+        public static readonly Color BackgroundBrickPaleBrown = Color.FromArgb(3681810);
+        public static readonly Color BackgroundBrickPurple = Color.FromArgb(2429238);
+        public static readonly Color BackgroundBrickRed = Color.FromArgb(3609108);
+        public static readonly Color BackgroundBrickSaturatedBrown = Color.FromArgb(4463876);
 
         // Candy Backgrounds
 
@@ -587,6 +602,11 @@ namespace BlockData
         // Dark Backgrounds
 
         // Halloween 2011 Backgrounds
+
+        public static readonly Color BackgroundHalloween20111 = Color.FromArgb(4539717);
+        public static readonly Color BackgroundHalloween20112 = Color.FromArgb(2699572);
+        public static readonly Color BackgroundHalloween20113 = Color.FromArgb(2436142);
+        public static readonly Color BackgroundHalloween20114 = Color.FromArgb(2501679);
 
         // Industrial Backgrounds
 
@@ -608,7 +628,20 @@ namespace BlockData
 
         // Pirate Backgrounds
 
+        public static readonly Color BackgroundPirate1 = Color.FromArgb(6704948);
+        public static readonly Color BackgroundPirate2 = Color.FromArgb(8611394);
+        public static readonly Color BackgroundPirate3 = Color.FromArgb(8414274);
+        public static readonly Color BackgroundPirate4 = Color.FromArgb(8871752);
+        public static readonly Color BackgroundPirate5 = Color.FromArgb(8815442);
+        public static readonly Color BackgroundPirate6 = Color.FromArgb(5588790);
+        public static readonly Color BackgroundPirateSkull = Color.FromArgb(4934475);
+
         // Prison Backgrounds
+
+        public static readonly Color BackgroundPrisonBrickWall = Color.FromArgb(5921370);
+        public static readonly Color BackgroundPrisonPicture = Color.FromArgb(6321526);
+        public static readonly Color BackgroundPrisonWindowBlack = Color.FromArgb(5460819);
+        public static readonly Color BackgroundPrisonWindowBlue = Color.FromArgb(7238526);
 
         // Rocket Backgrounds
 
@@ -622,6 +655,6 @@ namespace BlockData
 
         #endregion
 
-        // public static readonly Color Name = Color.FromArgb();
+        // public static readonly Color Name = Color.FromArgb(color_value);
     }
 }
