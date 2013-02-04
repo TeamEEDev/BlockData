@@ -263,6 +263,35 @@ namespace BlockData
         public static readonly Bitmap BlockCheckeredGreen = new Bitmap(BlockData.Resources._191);
         public static readonly Bitmap BlockCheckeredLightBlue = new Bitmap(BlockData.Resources._192);
 
+        //Jungle Ruins Pack
+        public static readonly Bitmap BlockJungleRuinsSolidRoundedEdgeFace = new Bitmap(BlockData.Resources._193);
+        public static readonly Bitmap BlockJungleRuinsOneWay = new Bitmap(BlockData.Resources._194);
+        public static readonly Bitmap BlockJungleRuinsSolidNonRoundedGrey = new Bitmap(BlockData.Resources._195);
+        public static readonly Bitmap BlockJungleRuinsSolidRed = new Bitmap(BlockData.Resources._196);
+        public static readonly Bitmap BlockJungleRuinsSolidBlue = new Bitmap(BlockData.Resources._197);
+        public static readonly Bitmap BlockJungleRuinsSolidYellow = new Bitmap(BlockData.Resources._198);
+
+        public static readonly Bitmap BlockJungleVase = new Bitmap(BlockData.Resources._199);
+
+        //Diamond
+        public static readonly Bitmap BlockDiamond = new Bitmap(BlockData.Resources._241);
+
+        //Portal
+        public static readonly Bitmap BlockPortal = new Bitmap(BlockData.Resources._242);
+
+        //Cake
+        public static readonly Bitmap BlockCake = new Bitmap(BlockData.Resources._337);
+
+        //Hazards
+        //public static readonly Bitmap BlockHazardSpike = new Bitmap(BlockData.Resources._361);
+        //public static readonly Bitmap BlockHazardFire = new Bitmap(BlockData.Resources._368);
+
+        //Lava Pack
+        //public static readonly Bitmap BlockLavaYellow = new Bitmap(BlockData.Resources._202);
+        //public static readonly Bitmap BlockLavaOrange = new Bitmap(BlockData.Resources._203);
+        //public static readonly Bitmap BlockLavaRed = new Bitmap(BlockData.Resources._204);
+
+
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
     }
