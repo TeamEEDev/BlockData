@@ -599,6 +599,13 @@ namespace BlockData
 
         // Cowboy Backgrounds
 
+        public static readonly Color BackgroundCowboyBlueDark = Color.FromArgb(4807284);
+        public static readonly Color BackgroundCowboyBlueLit = Color.FromArgb(5731997);
+        public static readonly Color BackgroundCowboyBrownDark = Color.FromArgb(7360831);
+        public static readonly Color BackgroundCowboyBrownLit = Color.FromArgb(9660237);
+        public static readonly Color BackgroundCowboyRedDark = Color.FromArgb(8531756);
+        public static readonly Color BackgroundCowboyRedLit = Color.FromArgb(11088174);
+
         // Dark Backgrounds
 
         // Halloween 2011 Backgrounds
@@ -621,6 +628,11 @@ namespace BlockData
         // Monster Backgrounds
 
         // Ninja Backgrounds
+
+        public static readonly Color BackgroundNinjaDarkWindow = Color.FromArgb(3093569);
+        public static readonly Color BackgroundNinjaGreyWall = Color.FromArgb(9671310);
+        public static readonly Color BackgroundNinjaLitWindow = Color.FromArgb(5331311);
+        public static readonly Color BackgroundNinjaWhiteWall = Color.FromArgb(15724265);
 
         // Normal Backgrounds
 
@@ -651,7 +663,17 @@ namespace BlockData
 
         // Viking Backgrounds
 
+        public static readonly Color BackgroundViking1 = Color.FromArgb(3750200);
+        public static readonly Color BackgroundViking2 = Color.FromArgb(3815736);
+        public static readonly Color BackgroundViking3 = Color.FromArgb(13667461);
+
         // Water Backgrounds
+
+        public static readonly Color BackgroundWaterBasic = Color.FromArgb(7723751);
+        public static readonly Color BackgroundWaterFish = Color.FromArgb(7723751);
+        public static readonly Color BackgroundWaterOctopus = Color.FromArgb(7723751);
+        public static readonly Color BackgroundWaterSeaHorse = Color.FromArgb(7723751);
+        public static readonly Color BackgroundWaterSeaweed = Color.FromArgb(7723751);
 
         #endregion
 
