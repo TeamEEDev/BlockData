@@ -589,6 +589,9 @@ namespace BlockData
 
         // Candy Backgrounds
 
+        public static readonly Color BackgroundCandyBlue = Color.FromArgb(13097471);
+        public static readonly Color BackgroundCandyPink = Color.FromArgb(16689346);
+
         // Canvas Backgrounds
 
         public static readonly Color BackgroundCanvasBlue = Color.FromArgb(2122891);
@@ -599,6 +602,10 @@ namespace BlockData
         public static readonly Color BackgroundCanvasYellow = Color.FromArgb(8809765);
 
         // Christmas 2012 Backgrounds
+
+        public static readonly Color BackgroundChristmas2012Blue = Color.FromArgb(2046424);
+        public static readonly Color BackgroundChristmas2012Green = Color.FromArgb(5538829);
+        public static readonly Color BackgroundChristmas2012Yellow = Color.FromArgb(14191129);
 
         // Carnival Backgrounds
 
@@ -654,9 +661,22 @@ namespace BlockData
 
         // Jungle Backgrounds
 
+        public static readonly Color BackgroundJungleDark = Color.FromArgb(2570752);
+        public static readonly Color BackgroundJungleLight = Color.FromArgb(7176232);
+        public static readonly Color BackgroundJungleNormal = Color.FromArgb(4807684);
+
         // Jungle Ruins Backgrounds
 
+        public static readonly Color BackgroundJungleRuinsBlue = Color.FromArgb(4282982);
+        public static readonly Color BackgroundJungleRuinsGrey = Color.FromArgb(6710865);
+        public static readonly Color BackgroundJungleRuinsRed = Color.FromArgb(7818820);
+        public static readonly Color BackgroundJungleRuinsYellow = Color.FromArgb(7039028);
+
         // Lava Backgrounds
+
+        public static readonly Color BackgroundLavaOrange = Color.FromArgb(13006091);
+        public static readonly Color BackgroundLavaRed = Color.FromArgb(12007936);
+        public static readonly Color BackgroundLavaYellow = Color.FromArgb(13411123);
 
         // Mars Backgrounds
 
@@ -666,6 +686,9 @@ namespace BlockData
 
         // Monster Backgrounds
 
+        public static readonly Color BackgroundMonsterDark = Color.FromArgb(7368772);
+        public static readonly Color BackgroundMonsterNormal = Color.FromArgb(10526817);
+
         // Ninja Backgrounds
 
         public static readonly Color BackgroundNinjaDarkWindow = Color.FromArgb(3093569);
@@ -674,6 +697,14 @@ namespace BlockData
         public static readonly Color BackgroundNinjaWhiteWall = Color.FromArgb(15724265);
 
         // Normal Backgrounds
+
+        public static readonly Color BackgroundNormalDarkBlue = Color.FromArgb(2308705);
+        public static readonly Color BackgroundNormalGreen = Color.FromArgb(3039012);
+        public static readonly Color BackgroundNormalGrey = Color.FromArgb(4408131);
+        public static readonly Color BackgroundNormalLightBlue = Color.FromArgb(2847086);
+        public static readonly Color BackgroundNormalPurple = Color.FromArgb(6174830);
+        public static readonly Color BackgroundNormalRed = Color.FromArgb(7082025);
+        public static readonly Color BackgroundNormalYellow = Color.FromArgb(6119715);
 
         // Pastel Backgrounds
 
