@@ -467,7 +467,7 @@ namespace BlockData
         public static readonly Color DecorationNinja4 = Color.FromArgb(16777216);
         public static readonly Color DecorationNinja5 = Color.FromArgb(16777216);
         public static readonly Color DecorationNinja6 = Color.FromArgb(16777216);
-        public static readonly Color DecorationNinja7 = Color.FromArgb16777216();
+        public static readonly Color DecorationNinja7 = Color.FromArgb(16777216);
         public static readonly Color DecorationNinja8 = Color.FromArgb(16777216);
         public static readonly Color DecorationNinja9 = Color.FromArgb(16777216);
 
@@ -617,6 +617,12 @@ namespace BlockData
 
         // Industrial Backgrounds
 
+        public static readonly Color BackgroundIndustrialBluePlate = Color.FromArgb(2778500);
+        public static readonly Color BackgroundIndustrialGreenPlate = Color.FromArgb(5335355);
+        public static readonly Color BackgroundIndustrialGreyPlate = Color.FromArgb(5855577);
+        public static readonly Color BackgroundIndustrialNoPlate = Color.FromArgb(3750201);
+        public static readonly Color BackgroundIndustrialYellowPlate = Color.FromArgb(7099930);
+
         // Jungle Backgrounds
 
         // Jungle Ruins Backgrounds
@@ -624,6 +630,10 @@ namespace BlockData
         // Lava Backgrounds
 
         // Mars Backgrounds
+
+        public static readonly Color BackgroundMarsBigStar = Color.FromArgb(269941);
+        public static readonly Color BackgroundMarsNoStars = Color.FromArgb(269941);
+        public static readonly Color BackgroundMarsSmallStar = Color.FromArgb(269941);
 
         // Monster Backgrounds
 
@@ -657,9 +667,31 @@ namespace BlockData
 
         // Rocket Backgrounds
 
+        public static readonly Color BackgroundRocketBlue = Color.FromArgb(2774501);
+        public static readonly Color BackgroundRocketGreen = Color.FromArgb(3115520);
+        public static readonly Color BackgroundRocketRed = Color.FromArgb(8726336);
+        public static readonly Color BackgroundRocketWhite = Color.FromArgb(8749963);
+
         // Sand Backgrounds
 
+        public static readonly Color BackgroundSandDarkBrown = Color.FromArgb(8150588);
+        public static readonly Color BackgroundSandDarkerYellow = Color.FromArgb(14207588);
+        public static readonly Color BackgroundSandGrey = Color.FromArgb(11511690);
+        public static readonly Color BackgroundSandLightBrown = Color.FromArgb(13544829);
+        public static readonly Color BackgroundSandLightYellow = Color.FromArgb(13681820);
+        public static readonly Color BackgroundSandOrange = Color.FromArgb(13738808);
+
         // Timbered Backgrounds
+
+        public static readonly Color BackgroundTimbered4 = Color.FromArgb(9537138);
+        public static readonly Color BackgroundTimbered5 = Color.FromArgb(10853514);
+        public static readonly Color BackgroundTimbered6 = Color.FromArgb(10787721);
+        public static readonly Color BackgroundTimbered7 = Color.FromArgb(13881280);
+        public static readonly Color BackgroundTimbered8 = Color.FromArgb(11643288);
+        public static readonly Color BackgroundTimbered9 = Color.FromArgb(9799534);
+        public static readonly Color BackgroundTimberedHouseTopGrey = Color.FromArgb(5400927);
+        public static readonly Color BackgroundTimberedHouseTopHay = Color.FromArgb(13680259);
+        public static readonly Color BackgroundTimberedHouseTopRed = Color.FromArgb(7353374);
 
         // Viking Backgrounds
 
