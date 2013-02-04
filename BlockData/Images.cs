@@ -4,6 +4,7 @@ namespace BlockData
 {
     public class Images
     {
+        #region Blocks
         //Gravity
         public static readonly Bitmap BlockGravityNothing = new Bitmap(BlockData.Resources._0);
         public static readonly Bitmap BlockGravityLeft = new Bitmap(BlockData.Resources._1);
@@ -290,7 +291,7 @@ namespace BlockData
         //public static readonly Bitmap BlockLavaYellow = new Bitmap(BlockData.Resources._202);
         //public static readonly Bitmap BlockLavaOrange = new Bitmap(BlockData.Resources._203);
         //public static readonly Bitmap BlockLavaRed = new Bitmap(BlockData.Resources._204);
-
+        #endregion
 
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
