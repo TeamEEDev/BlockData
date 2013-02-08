@@ -338,6 +338,44 @@ namespace BlockData
         public static readonly Bitmap DecorationNinja8 = new Bitmap(BlockData.Resources._283);
         public static readonly Bitmap DecorationNinja9 = new Bitmap(BlockData.Resources._284);
 
+        //Water
+        public static readonly Bitmap DecorationWater = new Bitmap(BlockData.Resources._300);
+
+        //Cowboy
+        public static readonly Bitmap DecorationCowboyPoleLit = new Bitmap(BlockData.Resources._285);
+        public static readonly Bitmap DecorationCowboyPoleDark = new Bitmap(BlockData.Resources._286);
+        public static readonly Bitmap DecorationCowboyDoorBrownLeft = new Bitmap(BlockData.Resources._287);
+        public static readonly Bitmap DecorationCowboyDoorBrownRight = new Bitmap(BlockData.Resources._288);
+        public static readonly Bitmap DecorationCowboyDoorRedLeft = new Bitmap(BlockData.Resources._289);
+        public static readonly Bitmap DecorationCowboyDoorRedRight = new Bitmap(BlockData.Resources._290);
+        public static readonly Bitmap DecorationCowboyDoorBlueLeft = new Bitmap(BlockData.Resources._291);
+        public static readonly Bitmap DecorationCowboyDoorBlueRight = new Bitmap(BlockData.Resources._292);
+        public static readonly Bitmap DecorationCowboyWindow = new Bitmap(BlockData.Resources._293);
+        public static readonly Bitmap DecorationCowboyTableBrownLit = new Bitmap(BlockData.Resources._294);
+        public static readonly Bitmap DecorationCowboyTableBrownDark = new Bitmap(BlockData.Resources._295);
+        public static readonly Bitmap DecorationCowboyTableRedLit = new Bitmap(BlockData.Resources._296);
+        public static readonly Bitmap DecorationCowboyTableRedDark = new Bitmap(BlockData.Resources._297);
+        public static readonly Bitmap DecorationCowboyTableBlueLit = new Bitmap(BlockData.Resources._298);
+        public static readonly Bitmap DecorationCowboyTableBlueDark = new Bitmap(BlockData.Resources._299);
+
+        //Sand
+        public static readonly Bitmap DecorationSandLightYellow = new Bitmap(BlockData.Resources._301);
+        public static readonly Bitmap DecorationSandGrey = new Bitmap(BlockData.Resources._302);
+        public static readonly Bitmap DecorationSandDarkerYellow = new Bitmap(BlockData.Resources._303);
+        public static readonly Bitmap DecorationSandOrange = new Bitmap(BlockData.Resources._304);
+        public static readonly Bitmap DecorationSandLightBrown = new Bitmap(BlockData.Resources._305);
+        public static readonly Bitmap DecorationSandDarkBrown = new Bitmap(BlockData.Resources._306);
+
+        //Cloud
+        public static readonly Bitmap DecorationCloud1 = new Bitmap(BlockData.Resources._311);
+        public static readonly Bitmap DecorationCloud2 = new Bitmap(BlockData.Resources._312);
+        public static readonly Bitmap DecorationCloud3 = new Bitmap(BlockData.Resources._313);
+        public static readonly Bitmap DecorationCloud4 = new Bitmap(BlockData.Resources._314);
+        public static readonly Bitmap DecorationCloud5 = new Bitmap(BlockData.Resources._315);
+        public static readonly Bitmap DecorationCloud6 = new Bitmap(BlockData.Resources._316);
+        public static readonly Bitmap DecorationCloud7 = new Bitmap(BlockData.Resources._317);
+        public static readonly Bitmap DecorationCloud8 = new Bitmap(BlockData.Resources._318);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
