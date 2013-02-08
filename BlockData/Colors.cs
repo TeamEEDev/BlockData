@@ -322,6 +322,10 @@ namespace BlockData
         public static readonly Color BlockSummer2011Sand = Color.FromArgb(14269318);
         public static readonly Color BlockSummer2011Sunshade = Color.FromArgb(16777216);
 
+        // Swamp Block
+
+        public static readonly Color BlockSwamp = Color.FromArgb(16777216);
+
         // Switch Block
 
         public static readonly Color BlockSwitchPurple = Color.FromArgb(3749188);
@@ -532,6 +536,13 @@ namespace BlockData
         public static readonly Color DecorationSummer2012Bucket = Color.FromArgb(16777216);
         public static readonly Color DecorationSummer2012Grubber = Color.FromArgb(16777216);
         public static readonly Color DecorationSummer2012Cocktail = Color.FromArgb(16777216);
+
+        // Swamp Decorations
+
+        public static readonly Color DecorationSwamp1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSwamp2 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSwamp3 = Color.FromArgb(16777216);
+        public static readonly Color DecorationSwamp4 = Color.FromArgb(16777216);
 
         // Viking Decorations
 
@@ -747,6 +758,10 @@ namespace BlockData
         public static readonly Color BackgroundSandLightBrown = Color.FromArgb(13544829);
         public static readonly Color BackgroundSandLightYellow = Color.FromArgb(13681820);
         public static readonly Color BackgroundSandOrange = Color.FromArgb(13738808);
+
+        // Swamp Background
+
+        public static readonly Color BackgroundSwamp = Color.FromArgb(6314532);
 
         // Timbered Backgrounds
 
