@@ -463,6 +463,26 @@ namespace BlockData
         public static readonly Bitmap DecorationFog8 = new Bitmap(BlockData.Resources._350);
         public static readonly Bitmap DecorationFog9 = new Bitmap(BlockData.Resources._351);
 
+        //Halloween 2012
+        public static readonly Bitmap DecorationHalloween20121 = new Bitmap(BlockData.Resources._352);
+        public static readonly Bitmap DecorationHalloween20122 = new Bitmap(BlockData.Resources._353);
+        public static readonly Bitmap DecorationHalloween2012WiresVertical = new Bitmap(BlockData.Resources._354);
+        public static readonly Bitmap DecorationHalloween2012WiresHorizontal = new Bitmap(BlockData.Resources._355);
+        public static readonly Bitmap DecorationHalloween20125 = new Bitmap(BlockData.Resources._356);
+
+        //Jungle
+        public static readonly Bitmap DecorationJungleGrass = new Bitmap(BlockData.Resources._357);
+        public static readonly Bitmap DecorationJungle2 = new Bitmap(BlockData.Resources._358);
+        public static readonly Bitmap DecorationJungleTrophy = new Bitmap(BlockData.Resources._359);
+
+        //Christmas 2012
+        //public static readonly Bitmap DecorationChristmas2012BlueVertical = new Bitmap(BlockData.Resources._362);
+        //public static readonly Bitmap DecorationChristmas2012BlueHorizontal = new Bitmap(BlockData.Resources._363);
+        //public static readonly Bitmap DecorationChristmas2012BlueCross = new Bitmap(BlockData.Resources._364);
+        //public static readonly Bitmap DecorationChristmas2012RedVertical = new Bitmap(BlockData.Resources._365);
+        //public static readonly Bitmap DecorationChristmas2012RedHorizontal = new Bitmap(BlockData.Resources._366);
+        //public static readonly Bitmap DecorationChristmas2012RedCross = new Bitmap(BlockData.Resources._367);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
