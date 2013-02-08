@@ -398,6 +398,39 @@ namespace BlockData
         public static readonly Bitmap DecorationSpring2011Flower = new Bitmap(BlockData.Resources._239);
         public static readonly Bitmap DecorationSpring2011GlobularBush = new Bitmap(BlockData.Resources._240);
 
+        //New Years 2010
+        public static readonly Bitmap DecorationNewYear2010Purple = new Bitmap(BlockData.Resources._244);
+        public static readonly Bitmap DecorationNewYear2010Yellow = new Bitmap(BlockData.Resources._245);
+        public static readonly Bitmap DecorationNewYear2010Blue = new Bitmap(BlockData.Resources._246);
+        public static readonly Bitmap DecorationNewYear2010Red = new Bitmap(BlockData.Resources._247);
+        public static readonly Bitmap DecorationNewYear2010Green = new Bitmap(BlockData.Resources._248);
+
+        //Christmas 2010
+        public static readonly Bitmap DecorationChristmas20101 = new Bitmap(BlockData.Resources._249);
+        public static readonly Bitmap DecorationChristmas20102 = new Bitmap(BlockData.Resources._250);
+        public static readonly Bitmap DecorationChristmas2010SnowFreeTree = new Bitmap(BlockData.Resources._251);
+        public static readonly Bitmap DecorationChristmas2010SnowTree = new Bitmap(BlockData.Resources._252);
+        public static readonly Bitmap DecorationChristmas2010SnowyFence = new Bitmap(BlockData.Resources._253);
+        public static readonly Bitmap DecorationChristmas2010SnowFreeFence = new Bitmap(BlockData.Resources._254);
+
+        //Easter 2012
+        public static readonly Bitmap DecorationEaster2012BlueEgg = new Bitmap(BlockData.Resources._256);
+        public static readonly Bitmap DecorationEaster2012PinkEgg = new Bitmap(BlockData.Resources._257);
+        public static readonly Bitmap DecorationEaster2012YellowEgg = new Bitmap(BlockData.Resources._258);
+        public static readonly Bitmap DecorationEaster2012RedEgg = new Bitmap(BlockData.Resources._259);
+        public static readonly Bitmap DecorationEaster2012GreenEgg = new Bitmap(BlockData.Resources._260);
+
+        //Windows
+        public static readonly Bitmap DecorationWindowFullyTransparent = new Bitmap(BlockData.Resources._262);
+        public static readonly Bitmap DecorationWindowTransparentLightGreen = new Bitmap(BlockData.Resources._263);
+        public static readonly Bitmap DecorationWindowTransparentDarkGreen = new Bitmap(BlockData.Resources._264);
+        public static readonly Bitmap DecorationWindowTransparentLightBlue = new Bitmap(BlockData.Resources._265);
+        public static readonly Bitmap DecorationWindowTransparentDarkBlue = new Bitmap(BlockData.Resources._266);
+        public static readonly Bitmap DecorationWindowTransparentPink = new Bitmap(BlockData.Resources._267);
+        public static readonly Bitmap DecorationWindowTransparentRed = new Bitmap(BlockData.Resources._268);
+        public static readonly Bitmap DecorationWindowTransparentOrange = new Bitmap(BlockData.Resources._269);
+        public static readonly Bitmap DecorationWindowTransparentYellow = new Bitmap(BlockData.Resources._270);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
