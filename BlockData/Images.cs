@@ -376,6 +376,28 @@ namespace BlockData
         public static readonly Bitmap DecorationCloud7 = new Bitmap(BlockData.Resources._317);
         public static readonly Bitmap DecorationCloud8 = new Bitmap(BlockData.Resources._318);
 
+        //Rocket
+        public static readonly Bitmap DecorationRocketGreenSign = new Bitmap(BlockData.Resources._332);
+        public static readonly Bitmap DecorationRocketRed = new Bitmap(BlockData.Resources._333);
+        public static readonly Bitmap DecorationRocketBlue = new Bitmap(BlockData.Resources._334);
+        public static readonly Bitmap DecorationRocketComputer = new Bitmap(BlockData.Resources._335);
+
+        //Mars
+        public static readonly Bitmap DecorationMars = new Bitmap(BlockData.Resources._336);
+
+        //Prize Trophy
+        public static readonly Bitmap DecorationPrizeTrophy = new Bitmap(BlockData.Resources._223);
+
+        //Spring 2011
+        public static readonly Bitmap DecorationSpring2011Grass1 = new Bitmap(BlockData.Resources._233);
+        public static readonly Bitmap DecorationSpring2011Grass2 = new Bitmap(BlockData.Resources._234);
+        public static readonly Bitmap DecorationSpring2011Grass3 = new Bitmap(BlockData.Resources._235);
+        public static readonly Bitmap DecorationSpring2011OblongBush1 = new Bitmap(BlockData.Resources._236);
+        public static readonly Bitmap DecorationSpring2011OblongBush2 = new Bitmap(BlockData.Resources._237);
+        public static readonly Bitmap DecorationSpring2011OblongBush3 = new Bitmap(BlockData.Resources._238);
+        public static readonly Bitmap DecorationSpring2011Flower = new Bitmap(BlockData.Resources._239);
+        public static readonly Bitmap DecorationSpring2011GlobularBush = new Bitmap(BlockData.Resources._240);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
