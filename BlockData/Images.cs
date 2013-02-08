@@ -431,6 +431,38 @@ namespace BlockData
         public static readonly Bitmap DecorationWindowTransparentOrange = new Bitmap(BlockData.Resources._269);
         public static readonly Bitmap DecorationWindowTransparentYellow = new Bitmap(BlockData.Resources._270);
 
+        //Summer 2012
+        public static readonly Bitmap DecorationSummer2012Ball = new Bitmap(BlockData.Resources._307);
+        public static readonly Bitmap DecorationSummer2012Bucket = new Bitmap(BlockData.Resources._308);
+        public static readonly Bitmap DecorationSummer2012Grubber = new Bitmap(BlockData.Resources._309);
+        public static readonly Bitmap DecorationSummer2012Cocktail = new Bitmap(BlockData.Resources._310);
+
+        //Warning
+        public static readonly Bitmap DecorationWarningSignFire = new Bitmap(BlockData.Resources._319);
+        public static readonly Bitmap DecorationWarningSignSkull = new Bitmap(BlockData.Resources._320);
+        public static readonly Bitmap DecorationWarningSignLightning = new Bitmap(BlockData.Resources._321);
+        public static readonly Bitmap DecorationWarningSignCross = new Bitmap(BlockData.Resources._322);
+        public static readonly Bitmap DecorationWarningSignHorizontalLine = new Bitmap(BlockData.Resources._323);
+        public static readonly Bitmap DecorationWarningSignVerticalLine = new Bitmap(BlockData.Resources._324);
+
+        //Monster
+        public static readonly Bitmap DecorationMonsterRockGroundBig = new Bitmap(BlockData.Resources._338);
+        public static readonly Bitmap DecorationMonsterRockGroundSmall = new Bitmap(BlockData.Resources._339);
+        public static readonly Bitmap DecorationMonsterRockCeiling = new Bitmap(BlockData.Resources._340);
+        public static readonly Bitmap DecorationMonsterEyeOrange = new Bitmap(BlockData.Resources._341);
+        public static readonly Bitmap DecorationMonsterEyeBlue = new Bitmap(BlockData.Resources._342);
+
+        //Fog
+        public static readonly Bitmap DecorationFogFilled = new Bitmap(BlockData.Resources._343);
+        public static readonly Bitmap DecorationFog2 = new Bitmap(BlockData.Resources._344);
+        public static readonly Bitmap DecorationFog3 = new Bitmap(BlockData.Resources._345);
+        public static readonly Bitmap DecorationFog4 = new Bitmap(BlockData.Resources._346);
+        public static readonly Bitmap DecorationFog5 = new Bitmap(BlockData.Resources._347);
+        public static readonly Bitmap DecorationFog6 = new Bitmap(BlockData.Resources._348);
+        public static readonly Bitmap DecorationFog7 = new Bitmap(BlockData.Resources._349);
+        public static readonly Bitmap DecorationFog8 = new Bitmap(BlockData.Resources._350);
+        public static readonly Bitmap DecorationFog9 = new Bitmap(BlockData.Resources._351);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
