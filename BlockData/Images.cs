@@ -293,6 +293,30 @@ namespace BlockData
         //public static readonly Bitmap BlockLavaRed = new Bitmap(BlockData.Resources._204);
         #endregion
 
+        #region Decorations
+
+        //Summer 2011
+        public static readonly Bitmap DecorationSummer2011Sunshade = new Bitmap(BlockData.Resources._228);
+        public static readonly Bitmap DecorationSummer20111 = new Bitmap(BlockData.Resources._229);
+        public static readonly Bitmap DecorationSummer20112 = new Bitmap(BlockData.Resources._230);
+        public static readonly Bitmap DecorationSummer2011Rock = new Bitmap(BlockData.Resources._231);
+
+        //Candy
+        public static readonly Bitmap DecorationCandy = new Bitmap(BlockData.Resources._227);
+
+        //Halloween 2011
+        public static readonly Bitmap DecorationHalloween2011GraveStone = new Bitmap(BlockData.Resources._224);
+        public static readonly Bitmap DecorationHalloween20112 = new Bitmap(BlockData.Resources._225);
+        public static readonly Bitmap DecorationHalloween20113 = new Bitmap(BlockData.Resources._226);
+
+        //Christmas 2011
+        public static readonly Bitmap DecorationChristmas2011Star = new Bitmap(BlockData.Resources._218);
+        public static readonly Bitmap DecorationChristmas2011Wreath = new Bitmap(BlockData.Resources._219);
+        public static readonly Bitmap DecorationChristmas2011SphereBlue = new Bitmap(BlockData.Resources._220);
+        public static readonly Bitmap DecorationChristmas2011SphereGreen = new Bitmap(BlockData.Resources._221);
+        public static readonly Bitmap DecorationChristmas2011SphereRed = new Bitmap(BlockData.Resources._222);
+
+        #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
     }
