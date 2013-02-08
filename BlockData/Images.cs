@@ -316,6 +316,28 @@ namespace BlockData
         public static readonly Bitmap DecorationChristmas2011SphereGreen = new Bitmap(BlockData.Resources._221);
         public static readonly Bitmap DecorationChristmas2011SphereRed = new Bitmap(BlockData.Resources._222);
 
+        //Prison
+        public static readonly Bitmap DecorationPrison = new Bitmap(BlockData.Resources._261);
+
+        //Pirate
+        public static readonly Bitmap DecorationPirate1 = new Bitmap(BlockData.Resources._271);
+        public static readonly Bitmap DecorationPirateSkull = new Bitmap(BlockData.Resources._272);
+
+        //Viking
+        public static readonly Bitmap DecorationVikingRedShield = new Bitmap(BlockData.Resources._273);
+        public static readonly Bitmap DecorationVikingBlueShield = new Bitmap(BlockData.Resources._274);
+
+        //Ninja
+        public static readonly Bitmap DecorationNinja1 = new Bitmap(BlockData.Resources._276);
+        public static readonly Bitmap DecorationNinja2 = new Bitmap(BlockData.Resources._277);
+        public static readonly Bitmap DecorationNinja3 = new Bitmap(BlockData.Resources._278);
+        public static readonly Bitmap DecorationNinja4 = new Bitmap(BlockData.Resources._279);
+        public static readonly Bitmap DecorationNinja5 = new Bitmap(BlockData.Resources._280);
+        public static readonly Bitmap DecorationNinja6 = new Bitmap(BlockData.Resources._281);
+        public static readonly Bitmap DecorationNinja7 = new Bitmap(BlockData.Resources._282);
+        public static readonly Bitmap DecorationNinja8 = new Bitmap(BlockData.Resources._283);
+        public static readonly Bitmap DecorationNinja9 = new Bitmap(BlockData.Resources._284);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
