@@ -633,6 +633,43 @@ namespace BlockData
         public static readonly Bitmap BackgroundCanvasBlue = new Bitmap(BlockData.Resources._537);
         public static readonly Bitmap BackgroundCanvasGrey = new Bitmap(BlockData.Resources._538);
 
+        //Carnival
+        public static readonly Bitmap BackgroundCarnivalStripeyRedYellow = new Bitmap(BlockData.Resources._545);
+        public static readonly Bitmap BackgroundCarnivalStripeyPurpleBlue = new Bitmap(BlockData.Resources._546);
+        public static readonly Bitmap BackgroundCarnivalPink = new Bitmap(BlockData.Resources._547);
+        public static readonly Bitmap BackgroundCarnivalChecker = new Bitmap(BlockData.Resources._548);
+        public static readonly Bitmap BackgroundCarnivalGreen = new Bitmap(BlockData.Resources._549);
+
+        //Normal
+        public static readonly Bitmap BackgroundNormalGrey = new Bitmap(BlockData.Resources._610);
+        public static readonly Bitmap BackgroundNormalDarkBlue = new Bitmap(BlockData.Resources._611);
+        public static readonly Bitmap BackgroundNormalPurple = new Bitmap(BlockData.Resources._612);
+        public static readonly Bitmap BackgroundNormalRed = new Bitmap(BlockData.Resources._613);
+        public static readonly Bitmap BackgroundNormalYellow = new Bitmap(BlockData.Resources._614);
+        public static readonly Bitmap BackgroundNormalGreen = new Bitmap(BlockData.Resources._615);
+        public static readonly Bitmap BackgroundNormalLightBlue = new Bitmap(BlockData.Resources._616);
+
+        //Jungle Ruins
+        public static readonly Bitmap BackgroundJungleRuinsGrey = new Bitmap(BlockData.Resources._617);
+        public static readonly Bitmap BackgroundJungleRuinsRed = new Bitmap(BlockData.Resources._618);
+        public static readonly Bitmap BackgroundJungleRuinsBlue = new Bitmap(BlockData.Resources._619);
+        public static readonly Bitmap BackgroundJungleRuinsYellow = new Bitmap(BlockData.Resources._620);
+
+        //Jungle
+        public static readonly Bitmap BackgroundJungleLight = new Bitmap(BlockData.Resources._621);
+        public static readonly Bitmap BackgroundJungleNormal = new Bitmap(BlockData.Resources._622);
+        public static readonly Bitmap BackgroundJungleDark = new Bitmap(BlockData.Resources._623);
+
+        //Christmas 2012
+        //public static readonly Bitmap BackgroundChristmas2012Yellow = new Bitmap(BlockData.Resources._624);
+        //public static readonly Bitmap BackgroundChristmas2012Green = new Bitmap(BlockData.Resources._625);
+        //public static readonly Bitmap BackgroundChristmas2012Blue = new Bitmap(BlockData.Resources._626);
+
+        //Lava
+        //public static readonly Bitmap BackgroundLavaYellow = new Bitmap(BlockData.Resources._627);
+        //public static readonly Bitmap BackgroundLavaOrange = new Bitmap(BlockData.Resources._628);
+        //public static readonly Bitmap BackgroundLavaRed = new Bitmap(BlockData.Resources._629);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
