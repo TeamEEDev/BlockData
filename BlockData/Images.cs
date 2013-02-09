@@ -595,6 +595,44 @@ namespace BlockData
         public static readonly Bitmap BackgroundMarsSmallStar = new Bitmap(BlockData.Resources._606);
         public static readonly Bitmap BackgroundMarsBigStar = new Bitmap(BlockData.Resources._607);
 
+        //Monster
+        public static readonly Bitmap BackgroundMonsterNormal = new Bitmap(BlockData.Resources._608);
+        public static readonly Bitmap BackgroundMonsterDark = new Bitmap(BlockData.Resources._609);
+
+        //Checkered
+        public static readonly Bitmap BackgroundCheckeredGrey = new Bitmap(BlockData.Resources._513);
+        public static readonly Bitmap BackgroundCheckeredDarkBlue = new Bitmap(BlockData.Resources._514);
+        public static readonly Bitmap BackgroundCheckeredPurple = new Bitmap(BlockData.Resources._515);
+        public static readonly Bitmap BackgroundCheckeredRed = new Bitmap(BlockData.Resources._516);
+        public static readonly Bitmap BackgroundCheckeredYellow = new Bitmap(BlockData.Resources._517);
+        public static readonly Bitmap BackgroundCheckeredGreen = new Bitmap(BlockData.Resources._518);
+        public static readonly Bitmap BackgroundCheckeredLightBlue = new Bitmap(BlockData.Resources._519);
+
+        //Dark
+        public static readonly Bitmap BackgroundDarkGrey = new Bitmap(BlockData.Resources._520);
+        public static readonly Bitmap BackgroundDarkDarkBlue = new Bitmap(BlockData.Resources._521);
+        public static readonly Bitmap BackgroundDarkPurple = new Bitmap(BlockData.Resources._522);
+        public static readonly Bitmap BackgroundDarkRed = new Bitmap(BlockData.Resources._523);
+        public static readonly Bitmap BackgroundDarkYellow = new Bitmap(BlockData.Resources._524);
+        public static readonly Bitmap BackgroundDarkGreen = new Bitmap(BlockData.Resources._525);
+        public static readonly Bitmap BackgroundDarkLightBlue = new Bitmap(BlockData.Resources._526);
+
+        //Pastel
+        public static readonly Bitmap BackgroundPastelYellow = new Bitmap(BlockData.Resources._527);
+        public static readonly Bitmap BackgroundPastelDarkerGreen = new Bitmap(BlockData.Resources._528);
+        public static readonly Bitmap BackgroundPastelLimeGreen = new Bitmap(BlockData.Resources._529);
+        public static readonly Bitmap BackgroundPastelLightBlue = new Bitmap(BlockData.Resources._530);
+        public static readonly Bitmap BackgroundPastelDarkerBlue = new Bitmap(BlockData.Resources._531);
+        public static readonly Bitmap BackgroundPastelRed = new Bitmap(BlockData.Resources._532);
+
+        //Canvas
+        public static readonly Bitmap BackgroundCanvasSaturatedBrown = new Bitmap(BlockData.Resources._533);
+        public static readonly Bitmap BackgroundCanvasPaleBrown = new Bitmap(BlockData.Resources._534);
+        public static readonly Bitmap BackgroundCanvasYellow = new Bitmap(BlockData.Resources._535);
+        public static readonly Bitmap BackgroundCanvasGreen = new Bitmap(BlockData.Resources._536);
+        public static readonly Bitmap BackgroundCanvasBlue = new Bitmap(BlockData.Resources._537);
+        public static readonly Bitmap BackgroundCanvasGrey = new Bitmap(BlockData.Resources._538);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
