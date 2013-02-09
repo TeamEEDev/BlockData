@@ -4,6 +4,8 @@ namespace BlockData
 {
     public class Images
     {
+        public static readonly Bitmap UnknownBlock = new Bitmap(BlockData.Resources.unknownblock);
+
         #region Blocks
         //Gravity
         public static readonly Bitmap BlockGravityNothing = new Bitmap(BlockData.Resources._0);
