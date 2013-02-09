@@ -485,6 +485,57 @@ namespace BlockData
 
         #endregion
 
+        #region Backgrounds
+
+        //Basic
+        public static readonly Bitmap BackgroundBasicGrey = new Bitmap(BlockData.Resources._500);
+        public static readonly Bitmap BackgroundBasicDarkBlue = new Bitmap(BlockData.Resources._501);
+        public static readonly Bitmap BackgroundBasicPurple = new Bitmap(BlockData.Resources._502);
+        public static readonly Bitmap BackgroundBasicRed = new Bitmap(BlockData.Resources._503);
+        public static readonly Bitmap BackgroundBasicYellow = new Bitmap(BlockData.Resources._504);
+        public static readonly Bitmap BackgroundBasicGreen = new Bitmap(BlockData.Resources._505);
+        public static readonly Bitmap BackgroundBasicLightBlue = new Bitmap(BlockData.Resources._506);
+
+        //Brick
+        public static readonly Bitmap BackgroundBrickSaturatedBrown = new Bitmap(BlockData.Resources._507);
+        public static readonly Bitmap BackgroundBrickDarkGreen = new Bitmap(BlockData.Resources._508);
+        public static readonly Bitmap BackgroundBrickPurple = new Bitmap(BlockData.Resources._509);
+        public static readonly Bitmap BackgroundBrickLightGreen = new Bitmap(BlockData.Resources._510);
+        public static readonly Bitmap BackgroundBrickRed = new Bitmap(BlockData.Resources._511);
+        public static readonly Bitmap BackgroundBrickPaleBrown = new Bitmap(BlockData.Resources._512);
+
+        //Candy
+        public static readonly Bitmap BackgroundCandyPink = new Bitmap(BlockData.Resources._539);
+        public static readonly Bitmap BackgroundCandyBlue = new Bitmap(BlockData.Resources._540);
+
+        //Halloween 2011
+        public static readonly Bitmap BackgroundHalloween20111 = new Bitmap(BlockData.Resources._541);
+        public static readonly Bitmap BackgroundHalloween20112 = new Bitmap(BlockData.Resources._542);
+        public static readonly Bitmap BackgroundHalloween20113 = new Bitmap(BlockData.Resources._543);
+        public static readonly Bitmap BackgroundHalloween20114 = new Bitmap(BlockData.Resources._544);
+
+        //Prison
+        public static readonly Bitmap BackgroundPrisonBrickWall = new Bitmap(BlockData.Resources._550);
+        public static readonly Bitmap BackgroundPrisonPicture = new Bitmap(BlockData.Resources._551);
+        public static readonly Bitmap BackgroundPrisonWindowBlue = new Bitmap(BlockData.Resources._552);
+        public static readonly Bitmap BackgroundPrisonWindowBlack = new Bitmap(BlockData.Resources._553);
+
+        //Pirate
+        public static readonly Bitmap BackgroundPirate1 = new Bitmap(BlockData.Resources._554);
+        public static readonly Bitmap BackgroundPirate2 = new Bitmap(BlockData.Resources._555);
+        public static readonly Bitmap BackgroundPirate3 = new Bitmap(BlockData.Resources._556);
+        public static readonly Bitmap BackgroundPirate4 = new Bitmap(BlockData.Resources._557);
+        public static readonly Bitmap BackgroundPirate5 = new Bitmap(BlockData.Resources._558);
+        public static readonly Bitmap BackgroundPirate6 = new Bitmap(BlockData.Resources._559);
+        public static readonly Bitmap BackgroundPirateSkull = new Bitmap(BlockData.Resources._560);
+
+        //Viking
+        public static readonly Bitmap BackgroundViking1 = new Bitmap(BlockData.Resources._561);
+        public static readonly Bitmap BackgroundViking2 = new Bitmap(BlockData.Resources._562);
+        public static readonly Bitmap BackgroundViking3 = new Bitmap(BlockData.Resources._563);
+
+        #endregion
+
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
     }
 }
