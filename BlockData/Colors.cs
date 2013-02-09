@@ -57,6 +57,12 @@ namespace BlockData
         public static readonly Color BlockCandySolidStripeyRedWhite = Color.FromArgb(12743796);
         public static readonly Color BlockCandySolidStripeyYellowBlackPink = Color.FromArgb(10774865);
 
+        // Castle Blocks
+
+        public static readonly Color BlockCastleOneWay = Color.FromArgb(16777216);
+        public static readonly Color BlockCastleWall = Color.FromArgb(5857897);
+        public static readonly Color BlockCastleWindow = Color.FromArgb(4607055);
+
         // Checkered Blocks
 
         public static readonly Color BlockCheckeredDarkBlue = Color.FromArgb(3101585);
@@ -214,6 +220,11 @@ namespace BlockData
         public static readonly Color BlockMars5 = Color.FromArgb(16777216);
         public static readonly Color BlockMars6 = Color.FromArgb(16777216);
 
+        // Medieval Blocks
+
+        public static readonly Color BlockMedievalAnvil = Color.FromArgb(16777216);
+        public static readonly Color BlockMedievalBarrel = Color.FromArgb(16777216);
+
         // Metal Blocks
 
         public static readonly Color BlockMetalRed = Color.FromArgb(14645825);
@@ -356,6 +367,11 @@ namespace BlockData
 
         public static readonly Color DecorationCandy = Color.FromArgb(16777216);
 
+        // Castle Decorations
+
+        public static readonly Color DecorationCastle1 = Color.FromArgb(16777216);
+        public static readonly Color DecorationCastle2 = Color.FromArgb(16777216);
+
         // Chirstmas 2010 Decorations
 
         public static readonly Color DecorationChristmas20101 = Color.FromArgb(16777216);
@@ -454,6 +470,14 @@ namespace BlockData
         // Mars Decoration
 
         public static readonly Color DecorationMars = Color.FromArgb(16777216);
+
+        // Medieval Decorations
+
+        public static readonly Color DecorationMedievalBlueBanner = Color.FromArgb(16777216);
+        public static readonly Color DecorationMedievalRedBanner = Color.FromArgb(16777216);
+        public static readonly Color DecorationMedievalSword = Color.FromArgb(16777216);
+        public static readonly Color DecorationMedievalShield = Color.FromArgb(16777216);
+        public static readonly Color DecorationMedievalRock = Color.FromArgb(16777216);
 
         // Monster Decorations
 
@@ -612,6 +636,10 @@ namespace BlockData
         public static readonly Color BackgroundCanvasSaturatedBrown = Color.FromArgb(9059360);
         public static readonly Color BackgroundCanvasYellow = Color.FromArgb(8809765);
 
+        // Castle Background
+
+        public static readonly Color BackgroundCastle = Color.FromArgb(3159610);
+
         // Christmas 2012 Backgrounds
 
         public static readonly Color BackgroundChristmas2012Blue = Color.FromArgb(2046424);
@@ -694,6 +722,10 @@ namespace BlockData
         public static readonly Color BackgroundMarsBigStar = Color.FromArgb(269941);
         public static readonly Color BackgroundMarsNoStars = Color.FromArgb(269941);
         public static readonly Color BackgroundMarsSmallStar = Color.FromArgb(269941);
+
+        // Medieval Background
+
+        public static readonly Color BackgroundMedieval = Color.FromArgb(7758404);
 
         // Monster Backgrounds
 
