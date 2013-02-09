@@ -566,6 +566,35 @@ namespace BlockData
         public static readonly Bitmap BackgroundSandLightBrown = new Bitmap(BlockData.Resources._583);
         public static readonly Bitmap BackgroundSandDarkBrown = new Bitmap(BlockData.Resources._584);
 
+        //Industrial
+        public static readonly Bitmap BackgroundIndustrialNoPlate = new Bitmap(BlockData.Resources._585);
+        public static readonly Bitmap BackgroundIndustrialGreyPlate = new Bitmap(BlockData.Resources._586);
+        public static readonly Bitmap BackgroundIndustrialBluePlate = new Bitmap(BlockData.Resources._587);
+        public static readonly Bitmap BackgroundIndustrialGreenPlate = new Bitmap(BlockData.Resources._588);
+        public static readonly Bitmap BackgroundIndustrialYellowPlate = new Bitmap(BlockData.Resources._589);
+
+        //Timbered
+        public static readonly Bitmap BackgroundTimberedHouseTopHay = new Bitmap(BlockData.Resources._590);
+        public static readonly Bitmap BackgroundTimberedHouseTopRed = new Bitmap(BlockData.Resources._591);
+        public static readonly Bitmap BackgroundTimberedHouseTopGrey = new Bitmap(BlockData.Resources._592);
+        public static readonly Bitmap BackgroundTimbered4 = new Bitmap(BlockData.Resources._593);
+        public static readonly Bitmap BackgroundTimbered5 = new Bitmap(BlockData.Resources._594);
+        public static readonly Bitmap BackgroundTimbered6 = new Bitmap(BlockData.Resources._595);
+        public static readonly Bitmap BackgroundTimbered7 = new Bitmap(BlockData.Resources._596);
+        public static readonly Bitmap BackgroundTimbered8 = new Bitmap(BlockData.Resources._597);
+        public static readonly Bitmap BackgroundTimbered9 = new Bitmap(BlockData.Resources._598);
+
+        //Rocket
+        public static readonly Bitmap BackgroundRocketWhite = new Bitmap(BlockData.Resources._601);
+        public static readonly Bitmap BackgroundRocketBlue = new Bitmap(BlockData.Resources._602);
+        public static readonly Bitmap BackgroundRocketGreen = new Bitmap(BlockData.Resources._603);
+        public static readonly Bitmap BackgroundRocketRed = new Bitmap(BlockData.Resources._604);
+
+        //Mars
+        public static readonly Bitmap BackgroundMarsNoStars = new Bitmap(BlockData.Resources._605);
+        public static readonly Bitmap BackgroundMarsSmallStar = new Bitmap(BlockData.Resources._606);
+        public static readonly Bitmap BackgroundMarsBigStar = new Bitmap(BlockData.Resources._607);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
