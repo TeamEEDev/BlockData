@@ -344,6 +344,12 @@ namespace BlockData
         //Water
         public static readonly Bitmap DecorationWater = new Bitmap(BlockData.Resources._300);
 
+        //Swamp
+        //public static readonly Bitmap DecorationSwamp1 = new Bitmap(BlockData.Resources._370);
+        //public static readonly Bitmap DecorationSwamp2 = new Bitmap(BlockData.Resources._371);
+        //public static readonly Bitmap DecorationSwamp3 = new Bitmap(BlockData.Resources._372);
+        //public static readonly Bitmap DecorationSwamp4 = new Bitmap(BlockData.Resources._373);
+
         //Cowboy
         public static readonly Bitmap DecorationCowboyPoleLit = new Bitmap(BlockData.Resources._285);
         public static readonly Bitmap DecorationCowboyPoleDark = new Bitmap(BlockData.Resources._286);
