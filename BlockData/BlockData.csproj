@@ -43,7 +43,6 @@
     <Compile Include="Colors.cs" />
     <Compile Include="Images.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="BlockUtils.cs" />
     <Compile Include="Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1396,6 +1395,66 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\182.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\156.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\157.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\185.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\202.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\203.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\204.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\368.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\369.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\362.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\363.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\364.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\365.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\366.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\367.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\370.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\371.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\372.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\373.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

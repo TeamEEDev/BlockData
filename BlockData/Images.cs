@@ -22,7 +22,7 @@ namespace BlockData
 
         //Basic Block Pack
         public static readonly Bitmap BlockBasicGrey = new Bitmap(BlockData.Resources._9);
-        public static readonly Bitmap BlockBasicBlue = new Bitmap(BlockData.Resources._10);
+        public static readonly Bitmap BlockBasicDarkBlue = new Bitmap(BlockData.Resources._10);
         public static readonly Bitmap BlockBasicPurple = new Bitmap(BlockData.Resources._11);
         public static readonly Bitmap BlockBasicRed = new Bitmap(BlockData.Resources._12);
         public static readonly Bitmap BlockBasicYellow = new Bitmap(BlockData.Resources._13);
@@ -49,16 +49,16 @@ namespace BlockData
         public static readonly Bitmap BlockDoorGreen = new Bitmap(BlockData.Resources._24);
         public static readonly Bitmap BlockDoorBlue = new Bitmap(BlockData.Resources._25);
         public static readonly Bitmap BlockDoorCoinDoor = new Bitmap(BlockData.Resources._43);
-        //public static readonly Bitmap BlockDoorTimedDoor = new Bitmap(BlockData.Resources._156);
-        public static readonly Bitmap BlockDoorPurpleSwitcha_le = new Bitmap(BlockData.Resources._184);
+        public static readonly Bitmap BlockDoorTimedDoor = new Bitmap(BlockData.Resources._156);
+        public static readonly Bitmap BlockDoorPurpleSwitchable = new Bitmap(BlockData.Resources._184);
 
         //Gates Pack
         public static readonly Bitmap BlockGateRed = new Bitmap(BlockData.Resources._26);
         public static readonly Bitmap BlockGateGreen = new Bitmap(BlockData.Resources._27);
         public static readonly Bitmap BlockGateBlue = new Bitmap(BlockData.Resources._28);
-        //public static readonly Bitmap BlockGateTimedGate = new Bitmap(BlockData.Resources._157);
-        //public static readonly Bitmap BlockGateCoinGate = new Bitmap(BlockData.Resources._165);
-        //BlockGatePurpleSwitchable id=185
+        public static readonly Bitmap BlockGateTimedGate = new Bitmap(BlockData.Resources._157);
+        public static readonly Bitmap BlockGateCoinGate = new Bitmap(BlockData.Resources._165);
+        public static readonly Bitmap BlockGatePurpleSwitchable = new Bitmap(BlockData.Resources._185);
 
         //Metal Pack
         public static readonly Bitmap BlockMetalWhite = new Bitmap(BlockData.Resources._29);
@@ -86,8 +86,8 @@ namespace BlockData
         public static readonly Bitmap BlockFactory5 = new Bitmap(BlockData.Resources._49);
 
         //Secrets
-        public static readonly Bitmap BlockSecretUnpassa_le = new Bitmap(BlockData.Resources._50);
-        public static readonly Bitmap BlockSecretPassa_le = new Bitmap(BlockData.Resources._243);
+        public static readonly Bitmap BlockSecretUnpassable = new Bitmap(BlockData.Resources._50);
+        public static readonly Bitmap BlockSecretPassable = new Bitmap(BlockData.Resources._243);
 
         //Glass Pack
         public static readonly Bitmap BlockGlassRed = new Bitmap(BlockData.Resources._51);
@@ -177,7 +177,7 @@ namespace BlockData
         public static readonly Bitmap BlockWater = new Bitmap(BlockData.Resources._119);
 
         //Swamp
-        //public static readonly Bitmap BlockSwamp = new Bitmap(BlockData.Resources._369);
+        public static readonly Bitmap BlockSwamp = new Bitmap(BlockData.Resources._369);
 
         //Ladders
         public static readonly Bitmap BlockLadderCastle = new Bitmap(BlockData.Resources._118);
@@ -188,7 +188,7 @@ namespace BlockData
         //Tools
         public static readonly Bitmap BlockToolWinTrophy = new Bitmap(BlockData.Resources._121);
         public static readonly Bitmap BlockToolSpawnPoint = new Bitmap(BlockData.Resources._255);
-        //public static readonly Bitmap BlockToolCheckpoint = new Bitmap(BlockData.Resources._360);
+        public static readonly Bitmap BlockToolCheckpoint = new Bitmap(BlockData.Resources._360);
 
         //Cowboy Pack
         public static readonly Bitmap BlockCowboyBrownLit = new Bitmap(BlockData.Resources._122);
@@ -287,13 +287,13 @@ namespace BlockData
         public static readonly Bitmap BlockCake = new Bitmap(BlockData.Resources._337);
 
         //Hazards
-        //public static readonly Bitmap BlockHazardSpike = new Bitmap(BlockData.Resources._361);
-        //public static readonly Bitmap BlockHazardFire = new Bitmap(BlockData.Resources._368);
+        public static readonly Bitmap BlockHazardSpike = new Bitmap(BlockData.Resources._361);
+        public static readonly Bitmap BlockHazardFire = new Bitmap(BlockData.Resources._368);
 
         //Lava Pack
-        //public static readonly Bitmap BlockLavaYellow = new Bitmap(BlockData.Resources._202);
-        //public static readonly Bitmap BlockLavaOrange = new Bitmap(BlockData.Resources._203);
-        //public static readonly Bitmap BlockLavaRed = new Bitmap(BlockData.Resources._204);
+        public static readonly Bitmap BlockLavaYellow = new Bitmap(BlockData.Resources._202);
+        public static readonly Bitmap BlockLavaOrange = new Bitmap(BlockData.Resources._203);
+        public static readonly Bitmap BlockLavaRed = new Bitmap(BlockData.Resources._204);
         #endregion
 
         #region Decorations
@@ -345,10 +345,10 @@ namespace BlockData
         public static readonly Bitmap DecorationWater = new Bitmap(BlockData.Resources._300);
 
         //Swamp
-        //public static readonly Bitmap DecorationSwamp1 = new Bitmap(BlockData.Resources._370);
-        //public static readonly Bitmap DecorationSwamp2 = new Bitmap(BlockData.Resources._371);
-        //public static readonly Bitmap DecorationSwamp3 = new Bitmap(BlockData.Resources._372);
-        //public static readonly Bitmap DecorationSwamp4 = new Bitmap(BlockData.Resources._373);
+        public static readonly Bitmap DecorationSwamp1 = new Bitmap(BlockData.Resources._370);
+        public static readonly Bitmap DecorationSwamp2 = new Bitmap(BlockData.Resources._371);
+        public static readonly Bitmap DecorationSwamp3 = new Bitmap(BlockData.Resources._372);
+        public static readonly Bitmap DecorationSwamp4 = new Bitmap(BlockData.Resources._373);
 
         //Cowboy
         public static readonly Bitmap DecorationCowboyPoleLit = new Bitmap(BlockData.Resources._285);
@@ -485,12 +485,12 @@ namespace BlockData
         public static readonly Bitmap DecorationJungleTrophy = new Bitmap(BlockData.Resources._359);
 
         //Christmas 2012
-        //public static readonly Bitmap DecorationChristmas2012BlueVertical = new Bitmap(BlockData.Resources._362);
-        //public static readonly Bitmap DecorationChristmas2012BlueHorizontal = new Bitmap(BlockData.Resources._363);
-        //public static readonly Bitmap DecorationChristmas2012BlueCross = new Bitmap(BlockData.Resources._364);
-        //public static readonly Bitmap DecorationChristmas2012RedVertical = new Bitmap(BlockData.Resources._365);
-        //public static readonly Bitmap DecorationChristmas2012RedHorizontal = new Bitmap(BlockData.Resources._366);
-        //public static readonly Bitmap DecorationChristmas2012RedCross = new Bitmap(BlockData.Resources._367);
+        public static readonly Bitmap DecorationChristmas2012BlueVertical = new Bitmap(BlockData.Resources._362);
+        public static readonly Bitmap DecorationChristmas2012BlueHorizontal = new Bitmap(BlockData.Resources._363);
+        public static readonly Bitmap DecorationChristmas2012BlueCross = new Bitmap(BlockData.Resources._364);
+        public static readonly Bitmap DecorationChristmas2012RedVertical = new Bitmap(BlockData.Resources._365);
+        public static readonly Bitmap DecorationChristmas2012RedHorizontal = new Bitmap(BlockData.Resources._366);
+        public static readonly Bitmap DecorationChristmas2012RedCross = new Bitmap(BlockData.Resources._367);
 
         #endregion
 
@@ -670,14 +670,14 @@ namespace BlockData
         public static readonly Bitmap BackgroundJungleDark = new Bitmap(BlockData.Resources._623);
 
         //Christmas 2012
-        //public static readonly Bitmap BackgroundChristmas2012Yellow = new Bitmap(BlockData.Resources._624);
-        //public static readonly Bitmap BackgroundChristmas2012Green = new Bitmap(BlockData.Resources._625);
-        //public static readonly Bitmap BackgroundChristmas2012Blue = new Bitmap(BlockData.Resources._626);
+        public static readonly Bitmap BackgroundChristmas2012Yellow = new Bitmap(BlockData.Resources._624);
+        public static readonly Bitmap BackgroundChristmas2012Green = new Bitmap(BlockData.Resources._625);
+        public static readonly Bitmap BackgroundChristmas2012Blue = new Bitmap(BlockData.Resources._626);
 
         //Lava
-        //public static readonly Bitmap BackgroundLavaYellow = new Bitmap(BlockData.Resources._627);
-        //public static readonly Bitmap BackgroundLavaOrange = new Bitmap(BlockData.Resources._628);
-        //public static readonly Bitmap BackgroundLavaRed = new Bitmap(BlockData.Resources._629);
+        public static readonly Bitmap BackgroundLavaYellow = new Bitmap(BlockData.Resources._627);
+        public static readonly Bitmap BackgroundLavaOrange = new Bitmap(BlockData.Resources._628);
+        public static readonly Bitmap BackgroundLavaRed = new Bitmap(BlockData.Resources._629);
 
         #endregion
 
