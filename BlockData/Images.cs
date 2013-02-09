@@ -534,6 +534,38 @@ namespace BlockData
         public static readonly Bitmap BackgroundViking2 = new Bitmap(BlockData.Resources._562);
         public static readonly Bitmap BackgroundViking3 = new Bitmap(BlockData.Resources._563);
 
+        //Ninja
+        public static readonly Bitmap BackgroundNinjaWhiteWall = new Bitmap(BlockData.Resources._564);
+        public static readonly Bitmap BackgroundNinjaGreyWall = new Bitmap(BlockData.Resources._565);
+        public static readonly Bitmap BackgroundNinjaLitWindow = new Bitmap(BlockData.Resources._566);
+        public static readonly Bitmap BackgroundNinjaDarkWindow = new Bitmap(BlockData.Resources._567);
+
+        //Water
+        public static readonly Bitmap BackgroundWaterBasic = new Bitmap(BlockData.Resources._574);
+        public static readonly Bitmap BackgroundWaterOctopus = new Bitmap(BlockData.Resources._575);
+        public static readonly Bitmap BackgroundWaterFish = new Bitmap(BlockData.Resources._576);
+        public static readonly Bitmap BackgroundWaterSeaHorse = new Bitmap(BlockData.Resources._577);
+        public static readonly Bitmap BackgroundWaterSeaweed = new Bitmap(BlockData.Resources._578);
+
+        //Swamp
+        //public static readonly Bitmap BackgroundSwamp = new Bitmap(BlockData.Resources._630);
+
+        //Cowboy
+        public static readonly Bitmap BackgroundCowboyBrownLit = new Bitmap(BlockData.Resources._568);
+        public static readonly Bitmap BackgroundCowboyBrownDark = new Bitmap(BlockData.Resources._569);
+        public static readonly Bitmap BackgroundCowboyRedLit = new Bitmap(BlockData.Resources._570);
+        public static readonly Bitmap BackgroundCowboyRedDark = new Bitmap(BlockData.Resources._571);
+        public static readonly Bitmap BackgroundCowboyBlueLit = new Bitmap(BlockData.Resources._572);
+        public static readonly Bitmap BackgroundCowboyBlueDark = new Bitmap(BlockData.Resources._573);
+
+        //Sand
+        public static readonly Bitmap BackgroundSandLightYellow = new Bitmap(BlockData.Resources._579);
+        public static readonly Bitmap BackgroundSandGrey = new Bitmap(BlockData.Resources._580);
+        public static readonly Bitmap BackgroundSandDarkerYellow = new Bitmap(BlockData.Resources._581);
+        public static readonly Bitmap BackgroundSandOrange = new Bitmap(BlockData.Resources._582);
+        public static readonly Bitmap BackgroundSandLightBrown = new Bitmap(BlockData.Resources._583);
+        public static readonly Bitmap BackgroundSandDarkBrown = new Bitmap(BlockData.Resources._584);
+
         #endregion
 
         //public static readonly Bitmap Name = new Bitmap(BlockData.Resources._[block-id]);
