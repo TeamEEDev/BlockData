@@ -228,10 +228,10 @@ namespace BlockData
         public static readonly Bitmap BlockIndustrial2 = new Bitmap(BlockData.Resources._147);
         public static readonly Bitmap BlockIndustrial3 = new Bitmap(BlockData.Resources._148);
         public static readonly Bitmap BlockIndustrial4 = new Bitmap(BlockData.Resources._149);
-        public static readonly Bitmap BlockIndustrialConveyerBelt1 = new Bitmap(BlockData.Resources._150);
-        public static readonly Bitmap BlockIndustrialConveyerBelt2 = new Bitmap(BlockData.Resources._151);
-        public static readonly Bitmap BlockIndustrialConveyerBelt3 = new Bitmap(BlockData.Resources._152);
-        public static readonly Bitmap BlockIndustrialConveyerBelt4 = new Bitmap(BlockData.Resources._153);
+        public static readonly Bitmap BlockIndustrialConveyorBelt1 = new Bitmap(BlockData.Resources._150);
+        public static readonly Bitmap BlockIndustrialConveyorBelt2 = new Bitmap(BlockData.Resources._151);
+        public static readonly Bitmap BlockIndustrialConveyorBelt3 = new Bitmap(BlockData.Resources._152);
+        public static readonly Bitmap BlockIndustrialConveyorBelt4 = new Bitmap(BlockData.Resources._153);
         
         //Timbered Pack
         public static readonly Bitmap BlockTimbered = new Bitmap(BlockData.Resources._154);
