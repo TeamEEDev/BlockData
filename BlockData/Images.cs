@@ -296,6 +296,15 @@ namespace BlockData
         public static readonly Bitmap BlockLavaYellow = new Bitmap(BlockData.Resources._202);
         public static readonly Bitmap BlockLavaOrange = new Bitmap(BlockData.Resources._203);
         public static readonly Bitmap BlockLavaRed = new Bitmap(BlockData.Resources._204);
+
+        //Medieval Pack
+        public static readonly Bitmap BlockMedievalAnvil = new Bitmap(BlockData.Resources._162);
+        public static readonly Bitmap BlockMedievalBarrel = new Bitmap(BlockData.Resources._163);
+
+        //Castle Pack
+        public static readonly Bitmap BlockCastleOneWay = new Bitmap(BlockData.Resources._158);
+        public static readonly Bitmap BlockCastleWall = new Bitmap(BlockData.Resources._159);
+        public static readonly Bitmap BlockCastleWindow = new Bitmap(BlockData.Resources._160);
         #endregion
 
         #region Decorations
@@ -494,6 +503,17 @@ namespace BlockData
         public static readonly Bitmap DecorationChristmas2012RedHorizontal = new Bitmap(BlockData.Resources._366);
         public static readonly Bitmap DecorationChristmas2012RedCross = new Bitmap(BlockData.Resources._367);
 
+        //Medieval
+        public static readonly Bitmap DecorationMedievalBlueBanner = new Bitmap(BlockData.Resources._327);
+        public static readonly Bitmap DecorationMedievalRedBanner = new Bitmap(BlockData.Resources._328);
+        public static readonly Bitmap DecorationMedievalSword = new Bitmap(BlockData.Resources._329);
+        public static readonly Bitmap DecorationMedievalShield = new Bitmap(BlockData.Resources._330);
+        public static readonly Bitmap DecorationMedievalRock = new Bitmap(BlockData.Resources._331);
+
+        //Castle
+        public static readonly Bitmap DecorationCastle1 = new Bitmap(BlockData.Resources._325);
+        public static readonly Bitmap DecorationCastle2 = new Bitmap(BlockData.Resources._326);
+
         #endregion
 
         #region Backgrounds
@@ -680,6 +700,12 @@ namespace BlockData
         public static readonly Bitmap BackgroundLavaYellow = new Bitmap(BlockData.Resources._627);
         public static readonly Bitmap BackgroundLavaOrange = new Bitmap(BlockData.Resources._628);
         public static readonly Bitmap BackgroundLavaRed = new Bitmap(BlockData.Resources._629);
+
+        //Medieval
+        public static readonly Bitmap BackgroundMedieval = new Bitmap(BlockData.Resources._600);
+
+        //Castle
+        public static readonly Bitmap BackgroundCastle = new Bitmap(BlockData.Resources._599);
 
         #endregion
 
