@@ -176,6 +176,9 @@ namespace BlockData
         //Water
         public static readonly Bitmap BlockWater = new Bitmap(BlockData.Resources._119);
 
+        //Swamp
+        //public static readonly Bitmap BlockSwamp = new Bitmap(BlockData.Resources._369);
+
         //Ladders
         public static readonly Bitmap BlockLadderCastle = new Bitmap(BlockData.Resources._118);
         public static readonly Bitmap BlockLadderNinja = new Bitmap(BlockData.Resources._120);
